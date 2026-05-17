@@ -1,0 +1,652 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Beebox Series",
+    "description": "Beebox Series. Compact 0.6L mini PC powered by Intel N3000/J3000 Series processors with dual channel DDR3L SO-DIMM up to 16GB. Features 802.11ac WiFi, triple monitor support via 2x HDMI and DisplayPort, USB Type-C port, and supports two storage devices including 2.5\" SATA3 HDD and mSATA. Delivers smooth 4K/2K 30Hz playback with bundled wireless remote controller.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Beebox Series (Apollo Lake)",
+    "description": "Beebox Series (Apollo Lake). Compact 0.6L mini PC with Intel Pentium J4205 or Celeron J3455 quad-core CPUs, dual channel DDR3L SO-DIMM up to 16GB, and 32GB onboard eMMC. Offers 802.11ac WiFi, triple monitor support via 2x HDMI and DisplayPort, USB Type-C port, and dual storage options including 2.5\" SATA3 HDD and M.2 SATA3 SSD. Supports 4K 60Hz playback with included wireless remote.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Beebox-S Series",
+    "description": "Beebox-S Series. Ultra-compact 0.6L mini PC powered by Intel 6th Generation Core processors with DDR4-2133MHz memory up to 32GB across 2 SO-DIMM slots. Includes 802.11ac WiFi, dual monitor support via HDMI or HDMI+DisplayPort, USB 3.1 Gen2 Type-C port, and flexibility for 2.5\" SATA3 HDD plus M.2 storage. Delivers 4K/2K 60Hz playback with bundled remote controller.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Beebox-S Series (Kaby Lake)",
+    "description": "Beebox-S Series (Kaby Lake). Ultra-compact 0.6L mini PC with 7th Generation Intel Core processors, DDR4-2133MHz memory up to 32GB on 2 SO-DIMM slots, and 802.11ac WiFi. Supports dual monitors via HDMI or DisplayPort, USB 3.1 Gen2 Type-C, and dual storage flexibility. Plays 4K 60Hz 10-bit video on HDMI and DisplayPort with included wireless remote.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Core 100HT",
+    "description": "Core 100HT. Home theater PC with Intel Core i7/i5/i3 mobile processors, DDR3 1066MHz memory, and Intel HD Graphics supporting native Full HD 1080p playback. Features 7.1 CH HD audio, MCE remote controller, 802.11n wireless (300Mbps), 2x USB 3.1 Gen1 ports, and supports XFast USB and XFast LAN technologies.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Core 100HT-BD",
+    "description": "Core 100HT-BD. Home theater PC featuring Intel Core i7/i5/i3 mobile processors, DDR3 1066MHz memory, and Blu-ray Disc combo drive with Intel HD Graphics for Full HD 1080p. Includes 7.1 CH HD audio, MCE remote, 802.11n wireless (300Mbps), 2x USB 3.1 Gen1, XFast USB and XFast LAN support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CoreHT Series",
+    "description": "CoreHT Series. Media center with Intel Mobile Sandy Bridge processors and Mobile Intel HM65/HM67 Express chipset. Supports Blu-ray disc S3D content via HDMI with audio pass-through for Dolby TrueHD and DTS-HD Master Audio. Features 4x USB 3.1 Gen1, 1x eSATA3, and includes XFast USB/LAN, Graphical UEFI, and tuning utilities.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMeet B660 Series",
+    "description": "DeskMeet B660 Series. Compact 8-liter mini desktop supporting 14th, 13th, and 12th Gen Intel Core processors (LGA1700) with up to 128GB DDR4-3200MHz memory. Features PCIe 4.0 x16 graphics, DisplayPort/HDMI/D-Sub outputs, 3x SATA3, dual Hyper M.2 slots (PCIe Gen4), USB 3.2 Gen1 Type-C, and 500W 80+ Bronze power supply.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMeet B760 Series",
+    "description": "DeskMeet B760 Series. Compact 8-liter mini desktop supporting 14th, 13th, and 12th Gen Intel Core processors (LGA1700) with up to 128GB DDR4-3200MHz memory. Includes PCIe 4.0 x16 graphics, triple video outputs, 3x SATA3, dual Hyper M.2 slots (PCIe Gen4), USB 3.2 connectivity, and 500W 80+ Bronze power supply.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMeet X300 Series",
+    "description": "DeskMeet X300 Series. Compact 8-liter AMD Ryzen mini desktop supporting AM4 socket 2000, 3000, 4000 G, 5000 and 5000 G-Series processors up to 65W with up to 128GB DDR4-3200MHz. Features PCIe 3.0 x16 graphics, DisplayPort/HDMI/D-Sub, 2x SATA3, Ultra M.2 Gen3 x4, USB 3.2 Type-C, and 500W 80+ Bronze power supply.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMeet X600 Series",
+    "description": "DeskMeet X600 Series. Compact 8-liter premium mini desktop with AMD Ryzen 9000, 8000, and 7000 Series (AM5 socket) up to 65W, supporting up to 256GB DDR5 memory at 7200+ MHz. Features PCIe 4.0 x16 graphics, 2x DisplayPort and HDMI 2.1 outputs, 2.5G LAN, Blazing M.2 Gen5 x4 and Hyper M.2 Gen4 x4 slots, 500W 80+ Bronze PSU.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini 110 Series",
+    "description": "DeskMini 110 Series. Mini-STX form factor compact PC supporting LGA1151 socket CPUs up to 65W TDP with three graphics outputs: D-Sub, HDMI, and DisplayPort. Includes USB 3.1 Gen1 Type-C, space for standard Intel box fans, accommodates two 2.5\" HDDs/SSDs, and dual M.2 slots for WiFi/BT and PCIe Gen3 x4 SSD.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini 310 Series",
+    "description": "DeskMini 310 Series. Compact mini PC supporting 9th and 8th Gen Intel Core, Pentium, and Celeron LGA1151 processors with dual DDR4 SO-DIMMs up to 64GB. Features triple video outputs (DisplayPort, HDMI, D-Sub), Ultra M.2 PCIe Gen3 x4 slot, dual 2.5\" HDD/SSD trays, USB 3.1 Gen1 Type-C, and micro SD card reader.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini 4205 Series",
+    "description": "DeskMini 4205 Series. Compact mini PC with Intel Celeron Processor 4205U, dual channel DDR4 SO-DIMMs up to 64GB, and triple video outputs (DisplayPort, HDMI, D-Sub). Includes dual RJ-45 LAN ports, USB 3.2 Gen1 Type-C, three USB 3.2 Gen1 Type-A ports, dual M.2 2280 SSD slots, dual 2.5\" HDD/SSD bays, and optional COM ports.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini A300 Series",
+    "description": "DeskMini A300 Series. Compact mini PC supporting AMD AM4 Picasso, Raven Ridge, and Bristol Ridge CPUs up to 65W with DDR4-2933MHz (Ryzen) or DDR4-2400MHz (A-series) memory. Features dual Ultra M.2 NVMe slots (Gen3 x4/x2), dual 2.5\" SATA support with RAID 0/1, triple video outputs, USB 3.1 Gen1 Type-C, and M.2 WiFi slot.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini B660 Series",
+    "description": "DeskMini B660 Series. Compact mini PC supporting 14th, 13th, and 12th Gen Intel Core processors (LGA1700) up to 65W with dual DDR4-3200MHz SO-DIMMs up to 64GB. Features triple video outputs, USB 3.2 Gen2x2 and Gen2 Type-C ports, Blazing M.2 Gen5 x4 and Hyper M.2 Gen4 x4 slots, dual 2.5\" HDD/SSD with RAID, M.2 WiFi slot.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini B660/TPM/ACE",
+    "description": "DeskMini B660/TPM/ACE. Compact mini PC supporting 14th, 13th, and 12th Gen Intel Core processors (LGA1700) with max 65W TDP. Supports 2x SO-DIMM DDR4-3200MHz non-ECC memory up to 64GB, with TPM and ACE security features.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini B760 Series",
+    "description": "DeskMini B760 Series. Compact mini PC supporting 14th, 13th, and 12th Gen Intel Core processors (LGA1700) up to 65W with dual DDR4-3200MHz SO-DIMMs up to 64GB. Includes triple video outputs, USB 3.2 Gen2x2 and Gen2 Type-C, Blazing M.2 Gen5 x4 and Hyper M.2 Gen4 x4 slots, dual 2.5\" storage with RAID, WiFi slot.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini B760/TPM/ACE",
+    "description": "DeskMini B760/TPM/ACE. Compact mini PC supporting 14th, 13th, and 12th Gen Intel Core processors (LGA1700) with max 65W TDP. Supports 2x SO-DIMM DDR4-3200MHz non-ECC memory up to 64GB, with TPM and ACE security features included.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini B860 Series",
+    "description": "DeskMini B860 Series. Ultra-compact 1.92L mini PC with Intel Core Ultra Series 2 processors (LGA1851) up to 65W. Supports 2x DDR5 SO-DIMM up to 256GB at 7200MHz OC. Features quad video outputs including HDMI 2.1, 2x DisplayPort, Thunderbolt 4, Blazing M.2 Gen5 x4, Hyper M.2 Gen4 x4, dual SATA3, USB 3.2 Gen2x2 Type-C, and multiple USB ports.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini B860/TPM/ACE",
+    "description": "DeskMini B860/TPM/ACE. Supports Intel Core Ultra Processors Series 2 LGA1851 socket, up to 65W TDP. Dual channel DDR5 memory technology.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini GTX (B360)",
+    "description": "DeskMini GTX (B360). Supports Intel 9th and 8th gen Core, Pentium, and Celeron processors, up to 65W TDP. Discrete MXM slot supporting GeForce GTX1080. Dual DDR4 SO-DIMMs up to 32GB DDR4-2666. 4K@60Hz outputs via HDMI, DisplayPort, mini DisplayPort. 3 M.2 slots with 2 PCIe Gen4 x4 and 1 SATA. USB 3.1 Gen2 Type-C. 2.7L Micro STX form factor.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini GTX (Z390)",
+    "description": "DeskMini GTX (Z390). Supports Intel 9th and 8th gen Core, Pentium, and Celeron processors, up to 95W TDP. Discrete MXM slot supporting GeForce GTX1080. Dual DDR4 SO-DIMMs up to 32GB with DDR4-4000+ OC support. 4K@60Hz via HDMI, DisplayPort, mini DisplayPort. 3 Ultra M.2 PCIe Gen3 x4 slots. RGB lighting. USB 3.1 Gen2 Type-C. 2.7L Micro STX.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini GTX/RX",
+    "description": "DeskMini GTX/RX. Supports Intel 7th gen Core, Pentium, and Celeron LGA1151 processors. Discrete MXM slot supporting GeForce GTX1080. Dual DDR4 SO-DIMMs up to 32GB. 4K@60Hz via HDMI, DisplayPort, mini DisplayPort. Up to 3 Ultra M.2 PCIe Gen3 x4 slots. USB 3.1 Gen1 Type-C. 2.7L Micro STX.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini GTX/RX (Z370)",
+    "description": "DeskMini GTX/RX (Z370). Supports Intel 8th gen Core, Pentium, and Celeron LGA1151 processors. Discrete MXM slot supporting GeForce GTX1080. Dual DDR4 SO-DIMMs up to 32GB. 4K@60Hz via HDMI, DisplayPort, mini DisplayPort. Up to 3 Ultra M.2 PCIe Gen3 x4 slots. USB 3.1 Gen1 Type-C. 2.7L Micro STX.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini H470 Series",
+    "description": "DeskMini H470 Series. Supports 10th and 11th gen Intel Core processors LGA1200 socket, up to 65W TDP. Dual DDR4-2933MHz SO-DIMMs up to 64GB. DisplayPort, HDMI, D-Sub outputs. USB 3.2 Gen1 Type-C. 1 Ultra M.2 PCIe Gen3 x4 and 1 Hyper M.2 PCIe Gen4 x4 slot. 2 x 2.5\" HDD/SSD trays with RAID support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini X300 Series",
+    "description": "DeskMini X300 Series. Supports AMD AM4 socket CPUs including Cezanne, Renoir, Picasso, Raven Ridge, up to 65W TDP. DDR4-3200MHz memory with overclocking support. Dual Ultra M.2 NVMe slots. 2 x 2.5\" SATA drives with RAID 0/1. HDMI, DisplayPort, D-Sub outputs. USB 3.2 Gen1 Type-C.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini X300/2.5G Series",
+    "description": "DeskMini X300/2.5G Series. 1.92L mini PC supporting AMD AM4 Ryzen 5000/4000/3000/2000 series, up to 65W TDP. Dual DDR4-3200MHz up to 128GB. HDMI, DisplayPort, D-Sub outputs. 1 M.2 PCIe Gen3 x4 and 1 M.2 PCIe Gen3 x2/x4 slot. 2 x 2.5\" HDD/SSD with RAID. 2.5G LAN. USB 3.2 Gen1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Deskmini X300/TPM/ACE",
+    "description": "DeskMini X300/TPM/ACE. Supports AMD AM4 socket CPUs including Cezanne, Renoir, Picasso, Raven Ridge, up to 65W TDP. 2 x SO-DIMM DDR4 memory up to 64GB maximum.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini X600 Series",
+    "description": "DeskMini X600 Series. Supports AMD AM5 Ryzen 9000/8000/7000 series processors, up to 65W TDP. Dual DDR5-6400+ MHz OC memory up to 96GB. Supports max 47mm CPU coolers. HDMI, DisplayPort, D-Sub outputs. 2.5G LAN. 1 Blazing M.2 PCIe Gen5 x4 and 1 Hyper M.2 PCIe Gen4 x4 slot. 2 x 2.5\" HDD/SSD.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskMini X600/USB4 Series",
+    "description": "DeskMini X600/USB4 Series. 1.92L mini PC supporting AMD AM5 Ryzen 9000/8000/7000 series, up to 65W TDP. Dual DDR5-6400+ MHz OC up to 128GB. USB4, HDMI, DisplayPort outputs. 1 M.2 PCIe Gen5 x4 and 1 M.2 PCIe Gen4 x4 slot. 2 x 2.5\" HDD/SSD. USB4 and USB 3.2 Gen1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskSlim B760 Series",
+    "description": "DeskSlim B760 Series. 5L mini PC supporting Intel 14th/13th/12th gen Core LGA1700 up to 125W. 4 x DDR5-5600+ MHz OC up to 256GB. PCIe 5.0 x16 for dual-slot discrete GPU. 2 x DisplayPort 8K@60Hz and 1 x HDMI 4K@60Hz. 2 SATA and 2 M.2 PCIe Gen4 x4 SSD slots. 2.5G LAN. USB 3.2 Gen1 and USB 2.0.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "DeskSlim X600 Series",
+    "description": "DeskSlim X600 Series. 5L mini PC supporting AMD AM5 Ryzen 9000/8000/7000 series up to 120W. 4 x DDR5-7200+ MHz OC up to 256GB. PCIe 5.0 x16 for dual-slot discrete GPU. HDMI, DisplayPort 1.4, USB 4.0 Type-C outputs. 1 M.2 PCIe Gen5 x4 and 1 M.2 PCIe Gen4 x4 slot. 2.5G LAN.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ION 330",
+    "description": "ION 330. Intel Dual Core Atom 330 with NVIDIA ION graphics. 2.5L compact size, silent operation below 26 dB, high gloss finish. Energy Star 5.0 certified. Supports ASRock OC Tuner and Instant Boot.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ION 330-BD",
+    "description": "ION 330-BD. Intel Dual Core Atom 330 with NVIDIA ION graphics and BD combo drive. 2.5L compact, silent below 26 dB, high gloss design. Energy Star 5.0 certified. ASRock OC Tuner and Instant Boot support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ION 330HT",
+    "description": "ION 330HT. Intel Dual Core Atom 330 with NVIDIA ION GPU supporting Full HD 1080p. EuP 2.0 ready. 802.11b/g/n wireless. RAID 0/1 support with optional 2nd HDD. Powered eSATA/USB, MCE remote. Energy Star 5.0. XFast USB and LAN.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ION 330HT/W7HP",
+    "description": "ION 330HT/W7HP. Intel Dual Core Atom 330 with Windows 7 Home Premium. NVIDIA ION GPU with Full HD 1080p. EuP 2.0. 802.11b/g/n wireless. RAID capable. Powered eSATA/USB, MCE remote. Energy Star 5.0. XFast technologies.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ION 330HT-BD",
+    "description": "ION 330HT-BD. Intel Dual Core Atom 330 with NVIDIA ION GPU and Full HD 1080p. BD combo drive. EuP 2.0 ready. 802.11b/g/n wireless. RAID 0/1 capable. Powered eSATA/USB, MCE remote. Energy Star 5.0. XFast support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ION 330Pro",
+    "description": "ION 330Pro. Intel Dual Core Atom 330 with NVIDIA ION GPU supporting Full HD 1080p. EuP 2.0 ready. RAID 0/1 capable with 2nd HDD. Powered eSATA/USB. Energy Star 5.0. XFast USB and LAN technologies.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "ION 3D Series",
+    "description": "ION 3D Series. Intel Atom D525 dual core processor with Mobile Intel ICH8M chipset. 2GB DDR2-800MHz memory. NVIDIA GT218-ION graphics with 3DTV Play capability. 7.1 CH HD audio with DTS. XFast USB and LAN support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter A320",
+    "description": "Jupiter A320. AM4 Socket APU mini-ITX system up to 65W with AMD A320 chipset. Compact 1.07L form factor featuring dual USB 3.2 Gen1 Type-C, quad USB 3.2 Gen1 Type-A, DisplayPort, HDMI, D-Sub, M.2 2280 NVMe/SATA SSD slot, M.2 2230 Wi-Fi support, and TPM 2.0.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter B660",
+    "description": "Jupiter B660. Supports 14th/13th/12th Gen Intel Core LGA1700 processors up to 65W with B660 chipset. DDR4-3200MHz dual SO-DIMMs up to 64GB. Dual DisplayPort, HDMI, D-Sub, dual USB 3.2 Gen1 Type-C, RS232 COM port, M.2 2280 PCIe Gen4 and Wi-Fi slots, TPM 2.0.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter H310",
+    "description": "Jupiter H310. Intel 9th/8th Gen LGA1151 mini-ITX barebone up to 65W. USB 3.1 Gen1 Type-C, DisplayPort, HDMI, D-Sub video outputs. M.2 2280 PCIe/SATA SSD, 2.5\" HDD/SSD tray, M.2 2230 Wi-Fi slot, RS232 COM port. 1.07L compact chassis.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter H410",
+    "description": "Jupiter H410. LGA1200 10-core processor support up to 65W with DDR4-2933MHz dual channel memory up to 64GB. Dual USB 3.2 Gen1 Type-C, dual USB 3.2 Gen1 Type-A, DisplayPort, HDMI, D-Sub outputs. M.2 2280 NVMe/SATA, 2.5\" drive bay, integrated cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter H470",
+    "description": "Jupiter H470. 10th/11th Gen Intel Core LGA1200 up to 65W with DDR4-2933MHz dual channel up to 64GB. Dual USB 3.2 Gen1 Type-C, six USB 3.2 Gen1 Type-A, dual DisplayPort, HDMI. M.2 2280 NVMe/SATA, 2.5\" drive bay, RS232 COM, Intel Optane support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter H610",
+    "description": "Jupiter H610. Supports 14th/13th/12th Gen Intel Core LGA1700 up to 65W with DDR4-3200MHz dual SO-DIMMs up to 64GB. Dual DisplayPort, HDMI, D-Sub, dual USB 3.2 Gen1 Type-C, five USB 3.2 Gen1 Type-A. M.2 2280 PCIe Gen4 and Wi-Fi slots, RS232 COM, optional TPM 2.0.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter Q370",
+    "description": "Jupiter Q370. Intel 9th/8th Gen LGA1151 up to 65W with USB 3.1 Gen2 Type-C. Dual DisplayPort, HDMI video outputs. M.2 2280 PCIe/SATA, 2.5\" drive tray, M.2 2230 Wi-Fi slot, RS232 COM. Supports Intel vPro and Optane technology.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter X300",
+    "description": "Jupiter X300. AM4 Socket APU mini-ITX up to 65W with AMD X300 chipset. 1.07L compact system with dual USB 3.2 Gen1 Type-C, quad USB 3.2 Gen1 Type-A, DisplayPort, HDMI, D-Sub. M.2 2280 NVMe/SATA SSD, M.2 2230 Wi-Fi, TPM 2.0 support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Jupiter X600",
+    "description": "Jupiter X600. AMD Socket AM5 Ryzen 9000/8000/7000 series up to 65W with DDR5-6400+ dual SO-DIMMs up to 96GB. USB 4.0, dual DisplayPort, HDMI, 2.5G LAN. Dual M.2 2280 PCIe Gen4 slots, M.2 2230 Wi-Fi, RS232 COM, optional TPM 2.0.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "M8 Series",
+    "description": "M8 Series. Mini-ITX barebone system with chassis, power supply, motherboard, fans, DVD-RW, and SD 3.0 reader. Creative SoundCore 3D 7.1 audio, 2T2R WiFi 802.11ac, Bluetooth 4.0, G-sensor integration, and XSplit 3-month premium license.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "M8 Series (Z97)",
+    "description": "M8 Series Z97. Mini-ITX Z97 barebone supporting 5th, 4th Gen Intel Core processors with SFX 600W 80 Plus Gold PSU. Creative SoundCore 3D 7.1 HD audio, 2T2R WiFi 802.11ac, Bluetooth 4.0, DVD-RW, SD 3.0, XSplit license included.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Mars 4000U Series",
+    "description": "Mars 4000U Series. AMD Ryzen 4000U APU with DDR4-3200MHz dual channel, HDMI, D-Sub, M.2 2280 NVMe, 2.5\" SATA drive, M.2 Wi-Fi slot. USB 3.2 Gen1 Type-C, quad USB 3.2 Gen1 Type-A, SD card reader. Compact 0.7L, 26mm height.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Mars 5000U Series",
+    "description": "Mars 5000U Series. AMD Ryzen 5000U APU with DDR4-3200MHz dual channel, HDMI, D-Sub, M.2 2280 NVMe, 2.5\" SATA drive, M.2 Wi-Fi slot. USB 3.2 Gen1 Type-C, quad USB 3.2 Gen1 Type-A, SD card reader. 0.7L compact mini-PC.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Mars ADL Series",
+    "description": "Mars ADL Series. 12th Gen Intel Core Alder Lake-U mobile processor with DDR4-3200MHz dual channel up to 64GB. Thunderbolt 4, HDMI, D-Sub, USB 4.0, quad USB 3.2 Gen2 Type-A. Dual M.2 slots (Gen4 and Gen3/SATA), Wi-Fi, SD reader. 0.7L form factor.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Mars RPL Series",
+    "description": "Mars RPL Series. 13th Gen Intel Core i5-1335U Raptor Lake-U with DDR5-5200MHz dual channel up to 96GB. Thunderbolt 4, HDMI, D-Sub, USB Type-C Alt mode. Dual M.2 sockets (Gen4 and Gen3/SATA), Wi-Fi, SD reader, quad USB 3.2 Gen2. 0.7L compact.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Mars Series",
+    "description": "Mars Series. Intel Core/Celeron mini-PC with DDR4 dual channel, M.2 2280 NVMe/SATA, 2.5\" SATA drive, HDMI, D-Sub, M.2 Wi-Fi. USB 3.2 Gen1 Type-C, SD card reader. 26mm height, 0.7L ultra-compact design.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Mini Series",
+    "description": "Mini Series. AMD E2-1800 APU with A68M chipset, AMD Radeon HD7340M graphics, 7.1 CH HD audio. WiFi 802.11n, Bluetooth 4.0. Supports Dolby TrueHD and DTS HD Master audio bitstream pass-through.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Mini Series (Bay Trail-D)",
+    "description": "Mini Series Bay Trail-D. Intel Quad-Core J1900 processor with integrated 7th generation graphics. 7.1 CH HD audio, WiFi 802.11ac, Bluetooth 4.0 support for compact media applications.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "S330",
+    "description": "S330. Intel Dual Core Atom 330 with 945GC + ICH7 chipset. Compact 2.5L silent fanless design under 30dB. Energy Star 5.0 certified low-power consumption with ASRock OC Tuner and Instant Boot.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Vision 3D Series",
+    "description": "Vision 3D Series. Intel Core i7/i5/i3 mobile with HM55 chipset, NVIDIA GeForce GT425M, NVIDIA 3D Vision and 3DTV capable. Triple USB 3.1 Gen1, 2T2R WiFi 802.11b/g/n, 7.1 CH HD audio, XFast USB/LAN.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Vision 3D Series (Sandy Bridge)",
+    "description": "Vision 3D Series (Sandy Bridge). Intel Mobile Sandy Bridge processor with Mobile Intel HM65 Express chipset, NVIDIA GeForce GT540M graphics (1GB GDDR3), Blu-ray 3D and NVIDIA 3D Vision support, Lucid Virtu switchable graphics, 7.1 CH HD audio, 4x USB 3.1 Gen1, 802.11b/g/n WiFi, XFast USB and XFast LAN technologies, graphical UEFI.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Vision HT Series",
+    "description": "Vision HT Series. Intel Mobile Ivy Bridge processor with Mobile Intel HM77 Express chipset, multi VGA outputs (HDMI, DVI-I, D-Sub), Blu-ray S3D support via HDMI, 7.1 CH HD audio with Dolby TrueHD and DTS-HD, 4x USB 3.1 Gen1, dual-band 802.11a/b/g/n WiFi, Bluetooth 4.0, 4-in-1 card reader, XFast RAM/LAN/USB technologies.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Vision HT Series (Haswell)",
+    "description": "Vision HT Series (Haswell). Intel Mobile Haswell processor with Mobile Intel HM87 Express chipset, built-in Intel HD Graphics, 7.1 CH HD audio with DTS Connect, 802.11ac WiFi, Bluetooth 4.0, MHSL technology support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "VisionX Series",
+    "description": "VisionX Series. Intel Mobile Ivy Bridge processor with Mobile Intel HM77 Express chipset, AMD Radeon HD7850M graphics (1GB GDDR5), Blu-ray 3D and AMD HD3D support, multi VGA outputs (HDMI, DVI-I dual-link, D-Sub), 7.1 CH HD audio with Dolby TrueHD and DTS-HD, 4x USB 3.1 Gen1, dual-band 802.11a/b/g/n WiFi, Bluetooth 4.0.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "VisionX Series (Haswell)",
+    "description": "VisionX Series (Haswell). Intel Mobile Haswell processor with Mobile Intel HM87 Express chipset, AMD Radeon R9 M270X graphics, Blu-ray 3D and AMD HD3D support, 7.1 CH HD audio with DTS Connect, 802.11ac WiFi, Bluetooth 4.0, MHSL technology support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  }
+]

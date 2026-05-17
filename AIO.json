@@ -1,0 +1,162 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Challenger 240 Digital",
+    "description": "Challenger 240 Digital. 3-inch smart digital display with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Features 0dB silent cooling, RGB lighting ecosystem, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Challenger 360 Digital",
+    "description": "Challenger 360 Digital. 3-inch smart digital display with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Features 0dB silent cooling, RGB lighting ecosystem, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Challenger Pure 360",
+    "description": "Challenger Pure 360. Sleek all-black minimalist design with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Delivers 0dB silent cooling, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Challenger White 240 Digital",
+    "description": "Challenger White 240 Digital. 3-inch smart digital display with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Features 0dB silent cooling, RGB lighting ecosystem, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Challenger White 360 Digital",
+    "description": "Challenger White 360 Digital. 3-inch smart digital display with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Features 0dB silent cooling, RGB lighting ecosystem, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming 360 LCD",
+    "description": "Phantom Gaming 360 LCD. 3.4-inch full-color LCD display with 3-phase 6-slot pump and dual-inlet cooling path. Includes 360-degree halo ARGB fan with high-performance FDB bearings, 0dB silent cooling, RGB ecosystem, IIR+EPDM tubing, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Pro 240 ARGB",
+    "description": "Pro 240 ARGB. Dynamic ARGB water block with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Delivers 0dB silent cooling, RGB lighting ecosystem, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Pro 360 ARGB",
+    "description": "Pro 360 ARGB. Dynamic ARGB water block with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Delivers 0dB silent cooling, RGB lighting ecosystem, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Pro White 240 ARGB",
+    "description": "Pro White 240 ARGB. Dynamic ARGB water block with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Delivers 0dB silent cooling, RGB lighting ecosystem, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Pro White 360 ARGB",
+    "description": "Pro White 360 ARGB. Dynamic ARGB water block with 3-phase 6-slot pump, precision-machined copper cold plate, and ring-frame blade design. Delivers 0dB silent cooling, RGB lighting ecosystem, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Steel Legend 360 LCD",
+    "description": "Steel Legend 360 LCD. 3.4-inch full-color LCD display with 3-phase 6-slot pump and dual-inlet cooling path. Features industrial-grade dual-ball bearing, aerospace-grade LCP fan, 0dB silent cooling, RGB ecosystem, IIR+EPDM tubing, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Steel Legend Dark 360 LCD",
+    "description": "Steel Legend Dark 360 LCD. 3.4-inch full-color LCD display with 3-phase 6-slot pump and dual-inlet cooling path. Features industrial-grade dual-ball bearing, aerospace-grade LCP fan, 0dB silent cooling, RGB ecosystem, IIR+EPDM tubing, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "WS TR 360D",
+    "description": "WS TR 360D. Dual-pump architecture with brazed full-copper cold plate and 38mm high-density radiator. Includes industrial-grade dual-ball bearing, aerospace-grade LCP fan, IP54 water and dust resistance, dual-pump redundancy with alarm, 0dB cooling, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "WS TR 360S",
+    "description": "WS TR 360S. Brazed full-copper cold plate with industrial-grade dual-ball bearing and aerospace-grade LCP fan. Offers IP54 water and dust resistance, 0dB silent cooling, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "WS XE 360D",
+    "description": "WS XE 360D. Dual-pump architecture with brazed full-copper cold plate and 38mm high-density radiator. Includes industrial-grade dual-ball bearing, aerospace-grade LCP fan, IP54 water and dust resistance, dual-pump redundancy with alarm, 0dB cooling, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "WS XE 360S",
+    "description": "WS XE 360S. Brazed full-copper cold plate with industrial-grade dual-ball bearing and aerospace-grade LCP fan. Offers IP54 water and dust resistance, 0dB silent cooling, IIR+EPDM tubing, high conductivity thermal grease, and 6-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  }
+]

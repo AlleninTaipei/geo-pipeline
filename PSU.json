@@ -1,0 +1,482 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL-550B",
+    "description": "CL-550B. 80 PLUS BRONZE Certified power supply with 120mm golf-blade fan, built-in 5V BOOST function, and reliable 5-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL-650B",
+    "description": "CL-650B. 80 PLUS BRONZE Certified power supply with 120mm golf-blade fan, built-in 5V BOOST function, and reliable 5-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL-650G",
+    "description": "CL-650G. 80 PLUS GOLD Certified ATX3.1 ready power supply with 120mm golf-blade fan, Auto iCool intelligent fan control, 5V BOOST function, and 5-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL-750B",
+    "description": "CL-750B. 80 PLUS BRONZE Certified PCIe5.1 ready power supply with native 12V-2x6 connector, dual color design, 120mm golf-blade fan, 5V BOOST, and 5-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL-750G",
+    "description": "CL-750G. 80 PLUS GOLD Certified ATX3.1 and PCIe5.1 ready power supply with native 12V-2x6 connector, dual color design, 120mm golf-blade fan, Auto iCool control, 5V BOOST, and 5-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL-850G",
+    "description": "CL-850G. 80 PLUS GOLD Certified ATX3.1 and PCIe5.1 ready power supply with native 12V-2x6 connector, dual color design, 120mm golf-blade fan, Auto iCool control, 5V BOOST, and 5-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG-1000G",
+    "description": "PG-1000G. 80 PLUS GOLD and Cybenetics GOLD certified power supply with ATX3.1 and PCIe5.1 support, fully modular cables, native 12V-2x6 connector, TempGuard, Japanese capacitors, 135mm FDB fan, iCool control, 5V BOOST, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG-1000PSF",
+    "description": "PG-1000PSF. 80 PLUS PLATINUM and Cybenetics PLATINUM certified SFX power supply with ATX3.1 and PCIe5.1 support, fully modular cables, native 12V-2x6 connector, TempGuard, Japanese capacitors, 92mm FDB fan, Auto iCool control, 5V BOOST, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG-1300G",
+    "description": "PG-1300G. 80 PLUS GOLD and Cybenetics PLATINUM certified power supply with ATX3.1 and PCIe5.1 support, fully modular cables, native 12V-2x6 connector, TempGuard, Japanese capacitors, 135mm FDB fan, iCool control, 5V BOOST, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG-1600G",
+    "description": "PG-1600G. 80 PLUS GOLD and Cybenetics PLATINUM certified power supply with ATX3.1 and PCIe5.1 support, fully modular cables, native 12V-2x6 connector, TempGuard, Japanese capacitors, 135mm FDB fan, iCool control, 5V BOOST, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG-750G",
+    "description": "PG-750G. 80 PLUS GOLD and Cybenetics PLATINUM certified power supply with ATX3.1 and PCIe5.1 support, fully modular cables, native 12V-2x6 connector, TempGuard, Japanese capacitors, 135mm FDB fan, iCool control, 5V BOOST, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG-850G",
+    "description": "PG-850G. 80 PLUS GOLD and Cybenetics PLATINUM certified power supply with ATX3.1 and PCIe5.1 support, fully modular cables, native 12V-2x6 connector, TempGuard, Japanese capacitors, 135mm FDB fan, iCool control, 5V BOOST, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG-850PSF",
+    "description": "PG-850PSF. 80 PLUS PLATINUM and Cybenetics PLATINUM certified SFX power supply with ATX3.1 and PCIe5.1 support, fully modular cables, native 12V-2x6 connector, TempGuard, Japanese capacitors, 92mm FDB fan, Auto iCool control, 5V BOOST, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-650B",
+    "description": "PRO-650B. 80 PLUS BRONZE Certified ATX3.1 power supply with low-noise 120mm fan and reliable 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-650B_V2",
+    "description": "PRO-650B_V2. 80 PLUS BRONZE Certified ATX3.1 power supply with low-noise 120mm fan and reliable 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-650B_X1P",
+    "description": "PRO-650B_X1P. 80 PLUS BRONZE Certified ATX3.1 power supply with low-noise 120mm fan and reliable 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-650G",
+    "description": "PRO-650G. 80 PLUS GOLD Certified ATX3.1 power supply with low-noise 120mm fan and reliable 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-650G_V2",
+    "description": "PRO-650G_V2. 80 PLUS GOLD Certified ATX3.1 and PCIe5.1 ready power supply with low-noise 120mm fan and reliable 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-650G_X1P",
+    "description": "PRO-650G_X1P. 80 PLUS GOLD Certified ATX3.1 and PCIe5.1 ready power supply with native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-750B",
+    "description": "PRO-750B. 80 PLUS BRONZE Certified ATX3.1 and PCIe5.1 ready power supply with native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-750B_V2",
+    "description": "PRO-750B_V2. 80 PLUS BRONZE certified 450W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-750B_X1P",
+    "description": "PRO-750B_X1P. 80 PLUS BRONZE certified 450W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-750G",
+    "description": "PRO-750G. 80 PLUS GOLD certified 450W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-750G_V2",
+    "description": "PRO-750G_V2. 80 PLUS GOLD certified 450W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-750G_X1P",
+    "description": "PRO-750G_X1P. 80 PLUS GOLD certified 450W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-850B",
+    "description": "PRO-850B. 80 PLUS BRONZE certified ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-850B_V2",
+    "description": "PRO-850B_V2. 80 PLUS BRONZE certified 600W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-850B_X1P",
+    "description": "PRO-850B_X1P. 80 PLUS BRONZE certified 600W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-850G",
+    "description": "PRO-850G. 80 PLUS GOLD certified ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-850G_JP",
+    "description": "PRO-850G_JP. 80 PLUS GOLD certified ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-850G_V2",
+    "description": "PRO-850G_V2. 80 PLUS GOLD certified 600W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-850G_X1P",
+    "description": "PRO-850G_X1P. 80 PLUS GOLD certified 600W ATX power supply with ATX3.1 and PCIe5.1 support. Native 12V-2x6 connector, dual color design, low-noise 120mm fan, and 3-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-M1000G",
+    "description": "PRO-M1000G. 80 PLUS GOLD certified 1000W fully modular power supply with Cybenetics GOLD and LAMBDA A+ certification. ATX3.1 and PCIe5.1 ready, native 12V-2x6 connector, Japanese capacitors, 135mm FDB fan, 5V BOOST function, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-M750G",
+    "description": "PRO-M750G. 80 PLUS GOLD certified 750W fully modular power supply with Cybenetics GOLD and LAMBDA A++ certification. ATX3.1 and PCIe5.1 ready, native 12V-2x6 connector, Japanese capacitors, 135mm FDB fan, 5V BOOST function, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PRO-M850G",
+    "description": "PRO-M850G. 80 PLUS GOLD certified 850W fully modular power supply with Cybenetics GOLD and LAMBDA A+ certification. ATX3.1 and PCIe5.1 ready, native 12V-2x6 connector, Japanese capacitors, 135mm FDB fan, 5V BOOST function, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-1000G",
+    "description": "SL-1000G. 80 PLUS GOLD certified 1000W fully modular power supply with Cybenetics PLATINUM and LAMBDA A certification. ATX3.1 and PCIe5.1 ready, native 12V-2x6 connector, 100% Japanese capacitors, 135mm FDB fan, iCool intelligent fan control, 5V BOOST function, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-1000GW",
+    "description": "SL-1000GW. 80 PLUS GOLD certified 1000W fully modular power supply with Cybenetics PLATINUM and LAMBDA A certification. ATX3.1 and PCIe5.1 ready, native 12V-2x6 connector, 100% Japanese capacitors, 135mm FDB fan, iCool intelligent fan control, 5V BOOST function, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-1000P",
+    "description": "SL-1000P. 80 PLUS PLATINUM certified 1000W fully modular power supply with Cybenetics PLATINUM and LAMBDA A+ certification. ATX3.1 and PCIe5.1 ready, native 12V-2x6 connector, TempGuard design, 100% Japanese capacitors, 135mm FDB fan, iCool control, 5V BOOST, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-1200G",
+    "description": "SL-1200G. 80 PLUS GOLD certified 1200W fully modular power supply with Cybenetics PLATINUM and LAMBDA A certification. ATX3.1 and PCIe5.1 ready, native 12V-2x6 connector, 100% Japanese capacitors, 135mm FDB fan, iCool intelligent fan control, 5V BOOST function, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-1200GW",
+    "description": "SL-1200GW. 80 PLUS GOLD certified 1200W fully modular power supply with Cybenetics PLATINUM and LAMBDA A certification. ATX3.1 and PCIe5.1 ready, native 12V-2x6 connector, 100% Japanese capacitors, 135mm FDB fan, iCool intelligent fan control, 5V BOOST function, and 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-1200P",
+    "description": "SL-1200P. 80 PLUS PLATINUM certified power supply with Cybenetics PLATINUM and LAMBDA A certification. ATX3.1 and PCIe5.1 ready with fully modular cable design and native 12V-2x6 connector. Features dual color design with TempGuard, 100% Japanese capacitors, 135mm striped axial FDB fan, iCool intelligent fan control, and 5V BOOST function. 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-650G",
+    "description": "SL-650G. 80 PLUS GOLD certified power supply with Cybenetics PLATINUM and LAMBDA A+ certification. ATX3.1 ready with fully modular cable design. Features 100% Japanese capacitors, 135mm striped axial FDB fan, iCool intelligent fan control, and 5V BOOST function. 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-750G",
+    "description": "SL-750G. 80 PLUS GOLD certified power supply with Cybenetics PLATINUM and LAMBDA A+ certification. ATX3.1 and PCIe5.1 ready with fully modular cable design and native 12V-2x6 connector. Features dual color design, 100% Japanese capacitors, 135mm striped axial FDB fan, iCool intelligent fan control, and 5V BOOST function. 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-850G",
+    "description": "SL-850G. 80 PLUS GOLD certified power supply with Cybenetics PLATINUM and LAMBDA A+ certification. ATX3.1 and PCIe5.1 ready with fully modular cable design and native 12V-2x6 connector. Features dual color design, 100% Japanese capacitors, 135mm striped axial FDB fan, iCool intelligent fan control, and 5V BOOST function. 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-850GW",
+    "description": "SL-850GW. 80 PLUS GOLD certified power supply with Cybenetics PLATINUM and LAMBDA A+ certification. ATX3.1 and PCIe5.1 ready with fully modular cable design and native 12V-2x6 connector. Features dual color design, 100% Japanese capacitors, 135mm striped axial FDB fan, iCool intelligent fan control, and 5V BOOST function. 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "SL-850P",
+    "description": "SL-850P. 80 PLUS PLATINUM certified power supply with Cybenetics PLATINUM and LAMBDA A+ certification. ATX3.1 and PCIe5.1 ready with fully modular cable design and native 12V-2x6 connector. Features dual color design with TempGuard, 100% Japanese capacitors, 135mm striped axial FDB fan, iCool intelligent fan control, and 5V BOOST function. 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "TC-1300T",
+    "description": "TC-1300T. 80 PLUS TITANIUM certified power supply with Cybenetics TITANIUM and LAMBDA A++ certification. ATX3.1 and PCIe5.1 ready with fully modular cable design and native 12V-2x6 connector. Features dual color design with TempGuard, 100% Japanese capacitors, 135mm striped axial FDB fan, iCool intelligent fan control, and 5V BOOST mode. 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "TC-1650T",
+    "description": "TC-1650T. 80 PLUS TITANIUM certified power supply with Cybenetics TITANIUM and LAMBDA A+ certification. ATX3.1 and PCIe5.1 ready with fully modular cable design and native 12V-2x6 connector. Features dual color design with TempGuard, 100% Japanese capacitors, 135mm striped axial FDB fan, iCool intelligent fan control, and 5V BOOST mode. 10-year warranty.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  }
+]

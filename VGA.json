@@ -1,0 +1,1552 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A310 Low Profile 4GB",
+    "description": "Intel Arc A310 Low Profile 4GB. Intel Arc A310 graphics with 4GB 64-bit GDDR6 memory. GPU clock up to 2000 MHz, memory clock 15.5 Gbps. PCI Express 4.0 support. Low profile design with dual fan 0dB silent cooling. DirectX 12 Ultimate. 1x DisplayPort 2.0 with DSC and 1x HDMI 2.0b. 8K resolution support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A380 Challenger ITX 6GB OC",
+    "description": "Intel Arc A380 Challenger ITX 6GB OC. Intel Arc A380 graphics with 6GB 96-bit GDDR6 memory. GPU clock 2250 MHz, memory clock 15.5 Gbps. Small form factor design with striped axial fan and 0dB silent cooling. PCI Express 4.0, 1x 8-pin power connector. 3x DisplayPort 2.0 with DSC and 1x HDMI 2.0b. DirectX 12 Ultimate. 8K resolution support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A380 Low Profile 6GB",
+    "description": "Intel Arc A380 Low Profile 6GB. Intel Arc A380 graphics with 6GB 96-bit GDDR6 memory. GPU clock 2000 MHz, memory clock 15.5 Gbps. Low profile design with dual fan 0dB silent cooling. PCI Express 4.0 support. DirectX 12 Ultimate. 1x DisplayPort 2.0 with DSC and 1x HDMI 2.0b. 8K resolution support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A580 Challenger 8GB OC",
+    "description": "Intel Arc A580 Challenger 8GB OC. Intel Arc A580 graphics with 8GB 256-bit GDDR6 memory. GPU clock 2000 MHz, memory clock 16 Gbps. Intel Xe HPG microarchitecture with Xe Super Sampling. DirectX 12 Ultimate. Dual fan design with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling. 2x 8-pin power connectors. 3x DisplayPort 2.0 and 1x HDMI 2.0b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A750 Challenger D 8GB OC",
+    "description": "Intel Arc A750 Challenger D 8GB OC. Intel Arc A750 graphics with 8GB 256-bit GDDR6 memory. GPU clock 2200 MHz, memory clock 16 Gbps. Intel Xe HPG microarchitecture with Xe Super Sampling. DirectX 12 Ultimate. Dual fan design with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling. 2x 8-pin power connectors. 2x DisplayPort 2.0, 1x HDMI 2.1, and 1x HDMI 2.0b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A750 Challenger SE 8GB OC",
+    "description": "Intel Arc A750 Challenger SE 8GB OC. Intel Arc A750 graphics with 8GB 256-bit GDDR6 memory. GPU clock up to 2200 MHz, memory clock 16 Gbps. Intel Xe HPG microarchitecture with XeSS technology. DirectX 12 Ultimate. Dual fan design with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling. 2x 8-pin power connectors. 3x DisplayPort 2.0 and 1x HDMI 2.0b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A770 Challenger 16GB OC",
+    "description": "Intel Arc A770 Challenger 16GB OC. Intel Arc A770 graphics with 16GB 256-bit GDDR6 memory. GPU clock 2150 MHz, memory clock 17.5 Gbps. Intel Xe HPG microarchitecture with Xe Super Sampling. DirectX 12 Ultimate. Dual fan design with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling. 2x 8-pin power connectors. 3x DisplayPort 2.0 and 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A770 Challenger SE 16GB OC",
+    "description": "Intel Arc A770 Challenger SE 16GB OC. Intel Arc A770 graphics with 16GB 256-bit GDDR6 memory. GPU clock 2150 MHz, memory clock 16 Gbps. Intel Xe HPG microarchitecture with XeSS technology. DirectX 12 Ultimate. Dual fan design with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling. 2x 8-pin power connectors. 3x DisplayPort 2.0 and 1x HDMI 2.0b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A770 Phantom Gaming 16GB OC",
+    "description": "Intel Arc A770 Phantom Gaming 16GB OC. Intel Arc A770 graphics with 16GB 256-bit GDDR6 memory. GPU clock 2200 MHz, memory clock 17.5 Gbps. Intel Xe HPG microarchitecture with Xe Super Sampling. DirectX 12 Ultimate. Phantom Gaming 3X cooling system with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling. 2x 8-pin power connectors. 3x DisplayPort 2.0 and 1x HDMI 2.1. Polychrome SYNC support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc A770 Phantom Gaming D 8GB OC",
+    "description": "Intel Arc A770 Phantom Gaming D 8GB OC. Intel Arc A770 graphics with 8GB 256-bit GDDR6 memory. GPU clock 2200 MHz, memory clock 16 Gbps. Intel Xe HPG microarchitecture with Xe Super Sampling. DirectX 12 Ultimate. Phantom Gaming 3X cooling system with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling. 2x 8-pin power connectors. 3x DisplayPort 2.0 and 1x HDMI 2.1. Polychrome SYNC support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc B570 Challenger 10GB OC",
+    "description": "Intel Arc B570 Challenger 10GB OC. Intel Arc B570 graphics with 10GB 160-bit GDDR6 memory. GPU clock 2600 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with Xe Super Sampling 2 and XMX extensions. DirectX 12 Ultimate. Dual fan design with striped axial fan, LED indicator, and 0dB silent cooling. 1x 8-pin power connector. 3x DisplayPort 2.1 and 1x HDMI 2.1a.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc B580 Challenger 12GB OC",
+    "description": "Intel Arc B580 Challenger 12GB OC. Intel Arc B580 graphics with 12GB 192-bit GDDR6 memory. GPU clock 2740 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with Xe Super Sampling 2 and XMX extensions. DirectX 12 Ultimate. Dual fan design with striped axial fan, LED indicator, and 0dB silent cooling. 1x 8-pin power connector. 3x DisplayPort 2.1 and 1x HDMI 2.1a.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc B580 Steel Legend 12GB OC",
+    "description": "Intel Arc B580 Steel Legend 12GB OC. Intel Arc B580 graphics with 12GB 192-bit GDDR6 memory. GPU clock 2800 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with Xe Super Sampling 2 and XMX extensions. DirectX 12 Ultimate. Triple fan design with striped ring fan, ultra-fit heatpipe, air deflecting fin, and 0dB silent cooling. 2x 8-pin power connectors. 3x DisplayPort 2.1 and 1x HDMI 2.1a. Polychrome SYNC support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc Pro B60 Creator 24GB",
+    "description": "Intel Arc Pro B60 Creator 24GB. Intel Arc Pro B60 GPU with 24GB 192-bit GDDR6 memory. GPU clock 2400 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with 160 XMX engines. DirectX 12 Ultimate. PCI Express 5.0 support. Blower design with die-cast metal shroud, nickel-plated copper base, ultra-fit heatpipe, and 0dB silent cooling. 2-slot design. 1x 8-pin power connector. 4x DisplayPort 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc Pro B60 Passive 24GB",
+    "description": "Intel Arc Pro B60 Passive 24GB. Intel Arc Pro B60 GPU with 24GB 192-bit GDDR6 memory. GPU clock 2400 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with 160 XMX engines. DirectX 12 Ultimate. PCI Express 5.0 support. Passive cooling design with metal shroud, nickel-plated copper base, ultra-fit heatpipe, and metal backplate. 1-slot design. 1x 8-pin power connector. 4x DisplayPort 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc Pro B65 Creator 32GB",
+    "description": "Intel Arc Pro B65 Creator 32GB. Intel Arc Pro B65 GPU with 32GB 192-bit GDDR6 memory. Engine clock 2400 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with 160 XMX engines. DirectX 12 Ultimate. PCI Express 5.0 support. Blower design with die-cast metal shroud, vapor chamber, and metal backplate. 2-slot design with Honeywell PTM7950 thermal interface. 1x 12V-2x6-pin power connector. 4x DisplayPort 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc Pro B65 Passive 32GB",
+    "description": "Intel Arc Pro B65 Passive 32GB. Intel Arc Pro B65 GPU with 32GB 192-bit GDDR6 memory. Engine clock 2400 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with 160 XMX engines. DirectX 12 Ultimate. PCI Express 5.0 support. Passive cooling design with metal shroud, vapor chamber, and metal backplate. 2-slot design with Honeywell PTM7950 thermal interface. 1x 12V-2x6-pin power connector. 4x DisplayPort 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc Pro B70 Creator 32GB",
+    "description": "Intel Arc Pro B70 Creator 32GB. Intel Arc Pro B70 GPU with 32GB 256-bit GDDR6 memory. Engine clock 2540 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with 256 XMX engines. DirectX 12 Ultimate. PCI Express 5.0 support. Blower design with die-cast metal shroud, vapor chamber, and metal backplate. 2-slot design with Honeywell PTM7950 thermal interface. 1x 12V-2x6-pin power connector. 4x DisplayPort 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Intel Arc Pro B70 Passive 32GB",
+    "description": "Intel Arc Pro B70 Passive 32GB. Intel Arc Pro B70 GPU with 32GB 256-bit GDDR6 memory. Engine clock 2540 MHz, memory clock 19 Gbps. Intel Xe 2-HPG architecture with 256 XMX engines. DirectX 12 Ultimate. PCI Express 5.0 support. Passive cooling design with metal shroud, vapor chamber, and metal backplate. 2-slot design with Honeywell PTM7950 thermal interface. 1x 12V-2x6-pin power connector. 4x DisplayPort 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming D Radeon RX 580 2048SP MK2 4G OC",
+    "description": "Phantom Gaming D Radeon RX 580 2048SP MK2 4G OC. AMD Radeon RX 580 with 4GB GDDR5 memory. Core clock up to 1366 MHz OC mode, memory clock up to 7028 MHz. Double ball bearings fan design with high performance composite heatpipes. 0dB silent cooling. 8K resolution support. 3x DisplayPort, 1x HDMI, 1x DVI outputs. Phantom Gaming Tweak Utility for temperature, fan speed, clock, and voltage control.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming D Radeon RX 580 2048SP MK2 8G OC",
+    "description": "Phantom Gaming D Radeon RX 580 2048SP MK2 8G OC. AMD Radeon RX 580 graphics card with 8 GB GDDR5 memory. Core clock up to 1366 MHz in OC mode, memory up to 8032 MHz. Features double ball bearings fan design, composite heatpipes, and supports 8K resolution. Includes 3 DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature monitoring and clock/voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming D Radeon RX570 4G",
+    "description": "Phantom Gaming D Radeon RX570 4G. AMD Radeon RX 570 graphics card with 4 GB GDDR5 memory. Core clock up to 1293 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. DVI output with Phantom Gaming Tweak Utility for fan speed and temperature monitoring, core and memory clock and voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming D Radeon RX570 8G OC",
+    "description": "Phantom Gaming D Radeon RX570 8G OC. AMD Radeon RX 570 graphics card with 8 GB GDDR5 memory. Core clock up to 1320 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. 3 DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature monitoring and clock/voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming D Radeon RX580 2048SP 4G",
+    "description": "Phantom Gaming D Radeon RX580 2048SP 4G. AMD Radeon RX 580 graphics card with 4 GB GDDR5 memory. Core clock up to 1335 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. 3 DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature, clock, and voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming D Radeon RX580 2048SP 8G",
+    "description": "Phantom Gaming D Radeon RX580 2048SP 8G. AMD Radeon RX 580 graphics card with 8 GB GDDR5 memory. Core clock up to 1335 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. 3 DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature and clock/voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming D Radeon RX580 4G OC",
+    "description": "Phantom Gaming D Radeon RX580 4G OC. AMD Radeon RX 580 graphics card with 4 GB GDDR5 memory. Core clock up to 1424 MHz in OC mode, memory up to 8032 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. 3 DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for fan speed, temperature, clock, and voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming D Radeon RX580 8G OC",
+    "description": "Phantom Gaming D Radeon RX580 8G OC. AMD Radeon RX 580 graphics card with 8 GB GDDR5 memory. Core clock up to 1424 MHz in OC mode, memory up to 8032 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. 3 DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature and clock/voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming M1 Radeon RX570 4G",
+    "description": "Phantom Gaming M1 Radeon RX570 4G. AMD Radeon RX 570 graphics card with 4 GB GDDR5 memory. Core clock up to 1293 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design with composite heatpipes. DVI output. Phantom Gaming Tweak Utility includes temperature and fan speed monitoring with core and memory clock and voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming M1 Radeon RX570 8G",
+    "description": "Phantom Gaming M1 Radeon RX570 8G. AMD Radeon RX 570 graphics card with 8 GB GDDR5 memory. Core clock up to 1293 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design with composite heatpipes. DVI output. Phantom Gaming Tweak Utility for temperature monitoring and clock/voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming M2 Radeon RX580 8G",
+    "description": "Phantom Gaming M2 Radeon RX580 8G. AMD Radeon RX 580 graphics card with 8 GB GDDR5 memory. Core clock up to 1393 MHz in OC mode, memory up to 8032 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. DVI output. Phantom Gaming Tweak Utility for temperature and clock/voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming Radeon 550 2G",
+    "description": "Phantom Gaming Radeon 550 2G. AMD Radeon 550 graphics card with 2 GB GDDR5 memory. GPU clock up to 1230 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design. DisplayPort, HDMI, and DVI outputs. Features AMD Eyefinity technology and Radeon FreeSync 2 HDR support. Phantom Gaming Tweak Utility included.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming Radeon RX550 2G",
+    "description": "Phantom Gaming Radeon RX550 2G. AMD Radeon RX 550 graphics card with 2 GB GDDR5 memory. Core clock up to 1230 MHz in OC mode, memory up to 6024 MHz. Double ball bearings fan design. DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature and fan speed monitoring with core/memory clock and voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming Radeon RX550 4G",
+    "description": "Phantom Gaming Radeon RX550 4G. AMD Radeon RX 550 graphics card with 4 GB GDDR5 memory. Core clock up to 1230 MHz in OC mode, memory up to 6024 MHz. Double ball bearings fan design. DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature and clock/voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming Radeon RX560 2G",
+    "description": "Phantom Gaming Radeon RX560 2G. AMD Radeon RX 560 graphics card with 2 GB GDDR5 memory. Core clock up to 1223 MHz in OC mode, memory up to 6024 MHz. Double ball bearings fan design. DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature monitoring and core/memory clock and voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming Radeon RX560 4G",
+    "description": "Phantom Gaming Radeon RX560 4G. AMD Radeon RX 560 graphics card with 4 GB GDDR5 memory. Core clock up to 1223 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design. DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature and fan speed monitoring with clock/voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming U Radeon RX 590 8G OC",
+    "description": "Phantom Gaming U Radeon RX 590 8G OC. AMD Radeon RX 590 graphics card with FinFET 12nm process technology and 8 GB GDDR5 memory. GPU clock up to 1591 MHz in OC mode, memory up to 8032 MHz. 3-phase motor fan with double ball bearings, XXL aluminum heatsink and heatpipe design. 0dB silent cooling, 2 DP, 2 HDMI, DVI, and mDP outputs. Polychrome SYNC and Phantom Gaming Tweak.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming X Radeon RX VEGA 56 8G",
+    "description": "Phantom Gaming X Radeon RX VEGA 56 8G. AMD Radeon RX VEGA 56 graphics card with 8 GB HBM2 memory. Boost clock 1471 MHz, base clock 1156 MHz, memory 800 MHz. Double ball bearings fan design with vapor chamber cooling supports 8K resolution. HDMI and 3 DisplayPort outputs. Phantom Gaming Tweak Utility for temperature and clock/voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming X Radeon RX VEGA 64 8G",
+    "description": "Phantom Gaming X Radeon RX VEGA 64 8G. AMD Radeon RX VEGA 64 graphics card with 8 GB HBM2 memory. Boost clock 1546 MHz, base clock 1247 MHz, memory 945 MHz. Double ball bearings fan design with vapor chamber cooling supports 8K resolution. HDMI and 3 DisplayPort outputs. Phantom Gaming Tweak Utility for temperature and clock/voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming X Radeon RX570 4G OC",
+    "description": "Phantom Gaming X Radeon RX570 4G OC. AMD Radeon RX 570 graphics card with 4 GB GDDR5 memory. Core clock up to 1331 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. 3 DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature and clock/voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming X Radeon RX570 8G OC",
+    "description": "Phantom Gaming X Radeon RX570 8G OC. AMD Radeon RX 570 graphics card with 8 GB GDDR5 memory. Core clock up to 1331 MHz in OC mode, memory up to 7028 MHz. Double ball bearings fan design with composite heatpipes supports 8K resolution. 3 DisplayPort, HDMI, and DVI outputs. Phantom Gaming Tweak Utility for temperature and clock/voltage adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming X Radeon RX580 8G OC",
+    "description": "Phantom Gaming X Radeon RX580 8G OC. AMD Radeon RX 580 graphics with 8GB GDDR5 memory. GPU clocks up to 1435 MHz in OC mode, 1380 MHz default, 1324 MHz silent mode. Memory speed up to 8032 MHz. Double ball bearing fan design with high performance composite heatpipes. Supports 8K resolution. Outputs: 3 DisplayPort, HDMI, DVI. Includes Phantom Gaming Tweak Utility for temperature, fan speed, and clock/voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming X Radeon RX590 8G OC",
+    "description": "Phantom Gaming X Radeon RX590 8G OC. AMD Radeon RX 590 graphics with FinFET 12nm process technology and 8GB 256-bit GDDR5 memory. GPU clocks up to 1591 MHz OC mode, 1560 MHz default, 1498 MHz silent mode. Memory up to 8032 MHz. 3-phase motor fan with double ball bearings, XXL aluminum alloy heatsink, and heatpipe design. Outputs: 2 DisplayPort, 2 HDMI, DVI. 0dB silent cooling. Metal backplate.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Phantom Gaming X Radeon VII 16G",
+    "description": "Phantom Gaming X Radeon VII 16G. AMD Radeon VII graphics with 7nm process technology and 16GB 4096-bit HBM2 memory. Boost clock 1750 MHz GPU, 1 GHz memory. Base clock 1400 MHz GPU, 1 GHz memory. Triple fan design with metal backplate. Supports 8K resolution. Outputs: 3 DisplayPort, HDMI. Features AMD Eyefinity Technology, Radeon FreeSync 2, and HDR support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon AI PRO R9600D Passive 32GB",
+    "description": "Radeon AI PRO R9600D Passive 32GB. AMD Radeon AI PRO R9600D with 32GB GDDR6 on 256-bit memory bus. AMD RDNA 4 architecture with 48 compute units, 3rd gen RT and 2nd gen AI accelerators. Boost clock up to 2020 MHz, game clock 1080 MHz, memory speed 20 Gbps. Passive cooling design with nickel-plated copper base and ultra-fit heatpipe. 1-slot design. Outputs: 4 DisplayPort 2.1a. PCIe 5.0 support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon AI PRO R9700 Creator 32GB",
+    "description": "Radeon AI PRO R9700 Creator 32GB. AMD Radeon AI PRO R9700 with 32GB GDDR6 on 256-bit memory bus. AMD RDNA 4 architecture with 64 compute units, 3rd gen RT and 2nd gen AI accelerators. Boost clock up to 2920 MHz, game clock 2350 MHz, memory speed 20 Gbps. Blower design with die-cast metal shroud, vapor chamber, and Honeywell PTM7950 thermal interface. 2-slot design. Outputs: 4 DisplayPort 2.1a. PCIe 5.0 support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon AI PRO R9700S Passive 32GB",
+    "description": "Radeon AI PRO R9700S Passive 32GB. AMD Radeon AI PRO R9700S with 32GB GDDR6 on 256-bit memory bus. AMD RDNA 4 architecture with 64 compute units, 3rd gen RT and 2nd gen AI accelerators. Boost clock up to 2920 MHz, game clock 2350 MHz, memory speed 20 Gbps. Passive cooling with metal shroud, vapor chamber, and Honeywell PTM7950 interface. 2-slot design. Outputs: 4 DisplayPort 2.1a. PCIe 5.0 support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5500 XT Challenger D 4G OC",
+    "description": "Radeon RX 5500 XT Challenger D 4G OC. AMD Radeon RX 5500 XT with 2nd gen 7nm GPU and 4GB 128-bit GDDR6 memory. Boost clock up to 1845 MHz GPU, 14 Gbps memory. Game clock up to 1737 MHz, base clock 1685 MHz. RDNA architecture with PCIe 4.0 support. Supports 8K resolution and AMD Eyefinity. Outputs: 3 DisplayPort, 1 HDMI. Radeon FreeSync 2 HDR support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5500 XT Challenger D 8G OC",
+    "description": "Radeon RX 5500 XT Challenger D 8G OC. AMD Radeon RX 5500 XT with 2nd gen 7nm GPU and 8GB 128-bit GDDR6 memory. Boost clock up to 1845 MHz GPU, 14 Gbps memory. Game clock up to 1737 MHz, base clock 1685 MHz. RDNA architecture with PCIe 4.0 support. Supports 8K resolution and AMD Eyefinity. Outputs: 3 DisplayPort, 1 HDMI. Radeon FreeSync 2 HDR support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5500 XT Challenger ITX 8G",
+    "description": "Radeon RX 5500 XT Challenger ITX 8G. AMD Radeon RX 5500 XT with 2nd gen 7nm GPU and 8GB 128-bit GDDR6 memory at 14 Gbps. Boost clock up to 1845 MHz, game clock up to 1717 MHz, base clock 1607 MHz. Compact 190 x 139 x 42mm design for small form factor systems. 10cm long-life fan. RDNA architecture with PCIe 4.0 support. Outputs: 3 DisplayPort, 1 HDMI. Supports 8K resolution and AMD Eyefinity.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5500 XT Phantom Gaming D 8G OC",
+    "description": "Radeon RX 5500 XT Phantom Gaming D 8G OC. AMD Radeon RX 5500 XT with 2nd gen 7nm GPU and 8GB 128-bit GDDR6 memory. Boost clock up to 1845 MHz GPU, 14 Gbps memory. Game clock up to 1737 MHz, base clock 1685 MHz. Dual fan design with stylish metal backplate. 0dB silent cooling. 8-pin power connector. Outputs: 3 DisplayPort 1.4 DSC, 1 HDMI 2.0b. PCIe 4.0 support. Polychrome SYNC and ASRock Tweak.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 560 Phantom Gaming Elite 4GB",
+    "description": "Radeon RX 560 Phantom Gaming Elite 4GB. AMD Radeon RX 560 graphics with 4GB GDDR5 memory at 6800 MHz. Core clock 1199 MHz. ASRock striped axial fan with 0dB silent cooling. High performance composite heatpipes. Supports 5K resolution. Outputs: 2 DisplayPort, 1 HDMI.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5600 XT Challenger D 6G OC",
+    "description": "Radeon RX 5600 XT Challenger D 6G OC. AMD Radeon RX 5600 XT with 2nd gen 7nm GPU and 6GB 192-bit GDDR6 at 14 Gbps. Boost clock up to 1620 MHz, game clock up to 1460 MHz, base clock 1235 MHz. Dual fan design with metal backplate. 1 x 8-pin power connector. Outputs: 3 DisplayPort, 1 HDMI. AMD Eyefinity Technology, Radeon FreeSync 2 HDR support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5600 XT Challenger Pro 6G OC",
+    "description": "Radeon RX 5600 XT Challenger Pro 6G OC. AMD Radeon RX 5600 XT with 2nd gen 7nm GPU and 6GB GDDR6 at 14 Gbps. Boost clock up to 1750 MHz, game clock up to 1615 MHz, base clock 1420 MHz. Triple fan design with stylish metal backplate. 2.7-slot design with 0dB silent cooling. 1 x 8-pin connector. Outputs: 3 DisplayPort, 1 HDMI. ASRock Tweak and AMD Eyefinity Technology.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5600 XT Phantom Gaming D2 6G OC",
+    "description": "Radeon RX 5600 XT Phantom Gaming D2 6G OC. AMD Radeon RX 5600 XT with 2nd gen 7nm GPU and 6GB 192-bit GDDR6 at 14 Gbps. Boost clock up to 1750 MHz, game clock up to 1615 MHz, base clock 1420 MHz. Dual fan design with 2.7-slot design and stylish metal backplate. 0dB silent cooling with Polychrome SYNC. 1 x 8-pin power connector. Outputs: 3 DisplayPort, 1 HDMI.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5600 XT Phantom Gaming D3 6G OC",
+    "description": "Radeon RX 5600 XT Phantom Gaming D3 6G OC. AMD Radeon RX 5600 XT with 2nd gen 7nm GPU and 6GB 192-bit GDDR6 at 14 Gbps. Boost clock up to 1750 MHz, game clock up to 1670 MHz, base clock 1530 MHz. Triple fan design with 2.7-slot design and stylish metal backplate. 0dB silent cooling with Polychrome SYNC. 1 x 8-pin power connector. Outputs: 3 DisplayPort, 1 HDMI.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 570 Phantom Gaming Elite 4G",
+    "description": "Radeon RX 570 Phantom Gaming Elite 4G. AMD Radeon RX 570 graphics with 4GB GDDR5 memory. Core clock 1250 MHz, memory 7000 MHz. ASRock striped axial fan with 0dB silent cooling. High performance composite heatpipes. Supports 8K resolution. Outputs: 3 DisplayPort, 1 HDMI. Includes ASRock Tweak Utility for temperature, fan speed, and clock/voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 570 Phantom Gaming Elite 8G",
+    "description": "Radeon RX 570 Phantom Gaming Elite 8G. AMD Radeon RX 570 graphics with 8GB GDDR5 memory. Core clock 1270 MHz, memory 7000 MHz. ASRock striped axial fan with 0dB silent cooling. High performance composite heatpipes. Supports 8K resolution. Outputs: 3 DisplayPort, 1 HDMI. Includes ASRock Tweak Utility for temperature, fan speed, and clock/voltage monitoring.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 570 Phantom Gaming U 8G OC",
+    "description": "Radeon RX 570 Phantom Gaming U 8G OC. AMD Radeon RX 570 graphics with 8GB GDDR5 memory. OC mode up to 1352 MHz GPU, 7028 MHz memory. Default mode up to 1300 MHz, silent mode up to 1248 MHz. Polychrome SYNC support with high performance composite heatpipes. Supports 8K resolution. Outputs: 3 DisplayPort, 1 HDMI. ASRock Tweak Utility included.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 8G",
+    "description": "Radeon RX 5700 8G. AMD Radeon RX 5700 with 2nd gen 7nm GPU and 8GB 256-bit GDDR6 memory. Boost clock up to 1765 MHz GPU, 14 Gbps memory. Game clock up to 1625 MHz, base clock 1465 MHz. RDNA architecture with die-casting heatsink design. PCIe 4.0 support. Supports 8K resolution. Outputs: 3 DisplayPort, 1 HDMI. AMD Eyefinity Technology.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 Challenger D 8G OC",
+    "description": "Radeon RX 5700 Challenger D 8G OC. AMD Radeon RX 5700 with 2nd gen 7nm GPU and 8GB 256-bit GDDR6 memory. Boost clock up to 1750 MHz GPU, 14 Gbps memory. Game clock up to 1675 MHz, base clock 1425-1515 MHz. RDNA architecture with PCIe 4.0 support. Supports 8K resolution. Outputs: 3 DisplayPort, 1 HDMI. AMD Eyefinity Technology and Radeon FreeSync 2 HDR support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 Phantom Gaming D 8G OC",
+    "description": "Radeon RX 5700 Phantom Gaming D 8G OC. AMD Radeon RX 5700 graphics with 2nd Gen 7nm GPU, 8GB 256-bit GDDR6 memory. Boost clock up to 1750 MHz, base clock 1610 MHz. PCI Express 4.0 support with triple fan 2.7-slot design. 3x DisplayPort 1.4 and 1x HDMI 2.0b outputs. 0dB silent cooling, Polychrome SYNC RGB, stylish metal backplate, and AMD Eyefinity support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 XT 8G",
+    "description": "Radeon RX 5700 XT 8G. AMD Radeon RX 5700 XT graphics with 2nd Gen 7nm GPU, 8GB 256-bit GDDR6 memory. Boost clock 1905 MHz, base clock 1605 MHz. PCI Express 4.0 support with die-casting heatsink design. 3x DisplayPort and 1x HDMI outputs. RDNA architecture with 8K resolution support, AMD Eyefinity, Radeon FreeSync 2 HDR.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 XT Challenger D 8G OC",
+    "description": "Radeon RX 5700 XT Challenger D 8G OC. AMD Radeon RX 5700 XT graphics with 2nd Gen 7nm GPU, 8GB 256-bit GDDR6 memory. Boost clock up to 1905 MHz, game clock up to 1795 MHz. PCI Express 4.0 support with RDNA architecture. 3x DisplayPort and 1x HDMI outputs. 8K resolution support, AMD Eyefinity, and Radeon FreeSync 2 HDR.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 XT Challenger Pro 8G OC",
+    "description": "Radeon RX 5700 XT Challenger Pro 8G OC. AMD Radeon RX 5700 XT graphics with 2nd Gen 7nm GPU, 8GB 256-bit GDDR6 memory. Boost clock up to 1905 MHz, game clock up to 1795 MHz. PCI Express 4.0 support with triple fan 2.7-slot design. 3x DisplayPort and 1x HDMI outputs. 0dB silent cooling, stylish metal backplate, ASRock Tweak, and AMD FreeSync support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 XT Phantom Gaming D 8G OC",
+    "description": "Radeon RX 5700 XT Phantom Gaming D 8G OC. AMD Radeon RX 5700 XT graphics with 2nd Gen 7nm GPU, 8GB 256-bit GDDR6 memory. Boost clock up to 1945 MHz, game clock up to 1835 MHz, base clock 1690 MHz. PCI Express 4.0 support with triple fan 2.7-slot design. 3x DisplayPort 1.4 and 1x HDMI 2.0b outputs. Polychrome SYNC, 0dB silent cooling, and AMD Eyefinity.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 XT Phantom Gaming Elite",
+    "description": "Radeon RX 5700 XT Phantom Gaming Elite. AMD Radeon RX 5700 XT graphics with 2nd Gen 7nm GPU, 8GB 256-bit GDDR6 memory. Boost clock up to 1905 MHz, base clock 1650 MHz. PCI Express 4.0 support with triple fan 2.7-slot design. 3x DisplayPort 1.4 and 1x HDMI 2.0b outputs. Polychrome SYNC, 0dB silent cooling, stylish metal backplate, and AMD Eyefinity.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 XT Taichi X 8G OC",
+    "description": "Radeon RX 5700 XT Taichi X 8G OC. AMD Radeon RX 5700 XT graphics with 2nd Gen 7nm GPU, 8GB 256-bit GDDR6 memory. Boost clock up to 1980 MHz, game clock up to 1870 MHz, base clock 1730 MHz. PCI Express 4.0 support with Taichi triple fan design. 4x DisplayPort and 2x HDMI outputs. Dual BIOS, 0dB silent cooling, 3D metal backplate, and AMD FidelityFX.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 5700 XT Taichi X 8G OC+",
+    "description": "Radeon RX 5700 XT Taichi X 8G OC+. AMD Radeon RX 5700 XT graphics with 2nd Gen 7nm GPU, 8GB 256-bit GDDR6 memory. Boost clock up to 2040 MHz (Tweak) or 2025 MHz (Default). PCI Express 4.0 support with Taichi triple fan 2.5-slot design. 4x DisplayPort and 2x HDMI outputs. Dual BIOS, 0dB silent cooling, 3D metal backplate, and Polychrome SYNC.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 580 Phantom Gaming Elite 8G",
+    "description": "Radeon RX 580 Phantom Gaming Elite 8G. AMD Radeon RX 580 graphics, 8GB GDDR5 memory. Core clock 1345 MHz, memory clock 8000 MHz. ASRock striped axial fan with 0dB silent cooling and high-performance composite heatpipes. 3x DisplayPort and 1x HDMI outputs. 8K resolution support with ASRock Tweak utility for clock and voltage adjustments.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 580 Phantom Gaming U 8G OC",
+    "description": "Radeon RX 580 Phantom Gaming U 8G OC. AMD Radeon RX 580 graphics, 8GB GDDR5 memory. OC mode up to 1409 MHz, default mode up to 1355 MHz, silent mode up to 1301 MHz. Polychrome SYNC with high-performance composite heatpipes. 3x DisplayPort and 1x HDMI outputs. 8K resolution support with ASRock Tweak utility for monitoring and tweaking.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 590 GME Phantom Gaming 8G OC",
+    "description": "Radeon RX 590 GME Phantom Gaming 8G OC. AMD Radeon RX 590 GME graphics, 8GB GDDR5 memory. OC mode up to 1413 MHz, default mode up to 1385 MHz, silent mode up to 1357 MHz. Polychrome SYNC with stylish metal backplate and composite heatpipes. 3x DisplayPort and 1x HDMI outputs. 8K resolution support with ASRock Tweak utility.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 590 GME Phantom Gaming Elite 8G",
+    "description": "Radeon RX 590 GME Phantom Gaming Elite 8G. AMD Radeon RX 590 GME graphics, 8GB GDDR5 memory. Core clock 1380 MHz, memory clock 8000 MHz. ASRock striped axial fan with 0dB silent cooling and composite heatpipes. 3x DisplayPort and 1x HDMI outputs. 8K resolution support with ASRock Tweak utility for temperature and clock adjustments.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6400 Challenger ITX 4GB",
+    "description": "Radeon RX 6400 Challenger ITX 4GB. 6nm AMD Radeon RX 6400 graphics, 4GB GDDR6 memory. Boost clock up to 2321 MHz, game clock up to 2039 MHz, base clock 1923 MHz. AMD RDNA 2 architecture with PCI Express 4.0 support. 1x DisplayPort 1.4 and 1x HDMI 2.1 outputs. Single fan design with 0dB silent cooling, 8K resolution, AMD FidelityFX, and hardware raytracing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6400 Low Profile 4GB",
+    "description": "Radeon RX 6400 Low Profile 4GB. 6nm AMD Radeon RX 6400 graphics, 4GB GDDR6 memory. Boost clock up to 2321 MHz, game clock 2039 MHz. AMD RDNA 2 architecture with PCI Express 4.0 support. 1x DisplayPort 1.4a and 1x HDMI 2.1 outputs. Single fan low-profile design for small form factor systems. 0dB silent cooling, 8K resolution, AMD FidelityFX, and hardware raytracing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6500 XT Challenger ITX 4GB",
+    "description": "Radeon RX 6500 XT Challenger ITX 4GB. 6nm AMD Radeon RX 6500 XT graphics, 4GB GDDR6 memory. Boost clock up to 2815 MHz, game clock up to 2610 MHz, base clock 2310 MHz. AMD RDNA 2 architecture with PCI Express 4.0 support. 1x 8-pin power connector, 1x DisplayPort 1.4 and 1x HDMI 2.1 outputs. Single fan design with 0dB silent cooling, ASRock Tweak 2.0, 8K resolution, and hardware raytracing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6500 XT Phantom Gaming 8GB OC",
+    "description": "Radeon RX 6500 XT Phantom Gaming 8GB OC. 6nm AMD Radeon RX 6500 XT graphics, 8GB GDDR6 memory. Boost clock up to 2825 MHz, game clock up to 2685 MHz, base clock 2420 MHz. AMD RDNA 2 architecture with PCI Express 4.0 support. 1x 8-pin power connector, 1x DisplayPort 1.4 and 1x HDMI 2.1 outputs. Dual fan design with 0dB silent cooling, stylish metal backplate, ASRock Tweak 2.0, and hardware raytracing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6500 XT Phantom Gaming D 4GB OC",
+    "description": "Radeon RX 6500 XT Phantom Gaming D 4GB OC. 6nm AMD Radeon RX 6500 XT graphics, 4GB GDDR6 memory. Boost clock up to 2820 MHz, game clock up to 2650 MHz, base clock 2365 MHz. AMD RDNA 2 architecture with PCI Express 4.0 support. 1x 8-pin power connector, 1x DisplayPort 1.4 and 1x HDMI 2.1 outputs. Dual fan design with 0dB silent cooling, stylish metal backplate, ASRock Tweak 2.0, and hardware raytracing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6600 Challenger D 8GB",
+    "description": "Radeon RX 6600 Challenger D 8GB. 7nm AMD Radeon RX 6600 graphics, 8GB GDDR6 memory. Boost clock up to 2491 MHz, game clock up to 2044 MHz, base clock 1626 MHz. AMD RDNA 2 architecture with PCI Express 4.0 support. 1x 8-pin power connector, 3x DisplayPort 1.4 and 1x HDMI 2.1 outputs. Dual fan design with 0dB silent cooling, ultra-fit heatpipe, and stylish metal backplate.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6600 Challenger ITX 8GB",
+    "description": "Radeon RX 6600 Challenger ITX 8GB. 7nm AMD Radeon RX 6600 graphics, 8GB 128-bit GDDR6 memory. Boost clock up to 2491 MHz, game clock up to 2044 MHz, base clock 1626 MHz. AMD RDNA 2 architecture with PCI Express 4.0 support. 1x 8-pin power connector, 2x DisplayPort 1.4 and 2x HDMI outputs. Single fan ITX design with 0dB silent cooling, ultra-fit heatpipe, and stylish metal backplate.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6600 Challenger White 8GB",
+    "description": "Radeon RX 6600 Challenger White 8GB. 7nm AMD Radeon RX 6600 graphics, 8GB GDDR6 memory. Boost clock up to 2491 MHz, game clock up to 2044 MHz, base clock 1626 MHz. AMD RDNA 2 architecture with PCI Express 4.0 support. 1x 8-pin power connector, 3x DisplayPort 1.4 and 1x HDMI 2.1 outputs. Dual fan white design with 0dB silent cooling, ultra-fit heatpipe, and stylish metal backplate.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6600 XT Challenger D 8GB OC",
+    "description": "Radeon RX 6600 XT Challenger D 8GB OC. 7nm AMD RDNA 2 architecture with 8GB GDDR6 memory at 16 Gbps. Boost clock up to 2593 MHz, game clock up to 2382 MHz. PCIe 4.0 support with 1x8-pin connector. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Dual fan design with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6600 XT Challenger ITX 8GB",
+    "description": "Radeon RX 6600 XT Challenger ITX 8GB. 7nm AMD RDNA 2 architecture with 8GB GDDR6 at 16 Gbps. Boost clock up to 2589 MHz, game clock up to 2359 MHz. Compact ITX form factor 179x124x40mm, 2-slot design. Single fan with striped axial fan and ultra-fit heatpipe. 2x DisplayPort and 2x HDMI with 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6600 XT Challenger Pro 8GB OC",
+    "description": "Radeon RX 6600 XT Challenger Pro 8GB OC. 7nm AMD RDNA 2 architecture with 8GB GDDR6 at 16 Gbps. Boost clock up to 2602 MHz, game clock up to 2413 MHz. PCIe 4.0 support with 1x8-pin connector. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Triple fan design with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6600 XT Phantom Gaming D 8GB OC",
+    "description": "Radeon RX 6600 XT Phantom Gaming D 8GB OC. 7nm AMD RDNA 2 architecture with 8GB GDDR6 at 16 Gbps. Boost clock up to 2607 MHz, game clock up to 2428 MHz. PCIe 4.0 support with 1x8-pin connector. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Phantom Gaming 3X cooling system with Polychrome SYNC and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6650 XT Challenger D 8GB OC",
+    "description": "Radeon RX 6650 XT Challenger D 8GB OC. 7nm AMD RDNA 2 architecture with 8GB GDDR6 at 17.5 Gbps. Boost clock up to 2669 MHz, game clock up to 2447 MHz. PCIe 4.0 support with 1x8-pin connector. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Dual fan design with striped axial fan, ultra-fit heatpipe, and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6650 XT Phantom Gaming D 8GB OC",
+    "description": "Radeon RX 6650 XT Phantom Gaming D 8GB OC. 7nm AMD RDNA 2 architecture with 8GB GDDR6 at 17.5 Gbps. Boost clock up to 2694 MHz, game clock up to 2523 MHz. PCIe 4.0 support with 1x8-pin connector. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Phantom Gaming 3X cooling system with Polychrome SYNC and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6650 XT Steel Legend 8GB OC",
+    "description": "Radeon RX 6650 XT Steel Legend 8GB OC. 7nm AMD RDNA 2 architecture with 8GB GDDR6 at 17.5 Gbps and 32MB Infinity Cache. Boost clock up to 2669 MHz, game clock 2447 MHz. PCIe 4.0 support with 1x8-pin connector. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Triple fan design with Polychrome SYNC and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6700 XT 12GB",
+    "description": "Radeon RX 6700 XT 12GB. 7nm AMD RDNA 2 architecture with 12GB 192-bit GDDR6 at 16 Gbps. Boost clock up to 2581 MHz, game clock up to 2424 MHz. PCIe 4.0 support. 3x DisplayPort and 1x HDMI. AMD FreeSync technology with hardware raytracing support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6700 XT Challenger D 12GB",
+    "description": "Radeon RX 6700 XT Challenger D 12GB. 7nm AMD RDNA 2 architecture with 12GB 192-bit GDDR6 at 16 Gbps. Boost clock up to 2581 MHz, game clock up to 2424 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Dual fan design with striped axial fan and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6700 XT Challenger D 12GB OC",
+    "description": "Radeon RX 6700 XT Challenger D 12GB OC. 7nm AMD RDNA 2 architecture with 12GB 192-bit GDDR6 at 16 Gbps. Boost clock up to 2615 MHz, game clock up to 2433 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Dual fan design with striped axial fan and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6700 XT Challenger Pro 12GB",
+    "description": "Radeon RX 6700 XT Challenger Pro 12GB. 7nm AMD RDNA 2 architecture with 12GB 192-bit GDDR6 at 16 Gbps. Boost clock up to 2581 MHz, game clock up to 2424 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Triple fan design with striped axial fan and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6700 XT Challenger Pro 12GB OC",
+    "description": "Radeon RX 6700 XT Challenger Pro 12GB OC. 7nm AMD RDNA 2 architecture with 12GB 192-bit GDDR6 at 16 Gbps. Boost clock up to 2620 MHz, game clock up to 2474 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Triple fan design with striped axial fan and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6700 XT Phantom Gaming D 12GB OC",
+    "description": "Radeon RX 6700 XT Phantom Gaming D 12GB OC. 7nm AMD RDNA 2 architecture with 12GB 192-bit GDDR6 at 16 Gbps. Boost clock up to 2622 MHz, game clock up to 2548 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Phantom Gaming 3X cooling system with Polychrome SYNC and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6750 GRE Challenger 10GB OC",
+    "description": "Radeon RX 6750 GRE Challenger 10GB OC. 7nm AMD RDNA 2 architecture with 10GB 160-bit GDDR6 at 16 Gbps. Boost clock up to 2495 MHz, game clock up to 2345 MHz. PCIe 4.0 support with 1x8-pin connector. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Hardware raytracing support, dual fan design with 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6750 XT Challenger Pro 12GB OC",
+    "description": "Radeon RX 6750 XT Challenger Pro 12GB OC. 7nm AMD RDNA 2 architecture with 12GB 192-bit GDDR6 at 18 Gbps. Boost clock up to 2618 MHz, game clock up to 2512 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Triple fan design with striped axial fan and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6750 XT Phantom Gaming D 12GB OC",
+    "description": "Radeon RX 6750 XT Phantom Gaming D 12GB OC. 7nm AMD RDNA 2 architecture with 12GB 192-bit GDDR6 at 18 Gbps. Boost clock up to 2623 MHz, game clock up to 2554 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Phantom Gaming 3X cooling system with Polychrome SYNC and 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6800 16G",
+    "description": "Radeon RX 6800 16G. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 at 16 Gbps. Boost clock up to 2105 MHz, game clock up to 1815 MHz. PCIe 4.0 support. 2x DisplayPort, 1x HDMI, 1x USB-C. AMD FreeSync technology with hardware raytracing support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6800 Challenger Pro 16G OC",
+    "description": "Radeon RX 6800 Challenger Pro 16G OC. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 at 16 Gbps. Boost clock up to 2140 MHz, game clock up to 1905 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Triple fan design with Polychrome SYNC and hardware raytracing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6800 Phantom Gaming D 16G OC",
+    "description": "Radeon RX 6800 Phantom Gaming D 16G OC. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 at 16 Gbps. Boost clock up to 2190 MHz, game clock up to 1980 MHz. PCIe 4.0 support with 2x8-pin connectors. 3x DisplayPort 1.4 with DSC and 1x HDMI 2.1. Phantom Gaming 3X cooling system with hardware raytracing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6800 XT 16G",
+    "description": "Radeon RX 6800 XT 16G. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 at 16 Gbps. Boost clock up to 2250 MHz, game clock up to 2015 MHz. PCIe 4.0 support. 2x DisplayPort, 1x HDMI, 1x USB-C. AMD FreeSync technology with hardware raytracing support.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6800 XT Phantom Gaming 16GB OC",
+    "description": "Radeon RX 6800 XT Phantom Gaming 16GB OC. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 memory. GPU boost clock up to 2310 MHz, game clock 2065 MHz. Hardware raytracing, PCIe 4.0, 3x 8-pin connectors. 3x DisplayPort 1.4 with DSC, 1x HDMI 2.1. Phantom Gaming 3X cooling system with 0dB silent operation and metal backplate.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6800 XT Phantom Gaming D 16G OC",
+    "description": "Radeon RX 6800 XT Phantom Gaming D 16G OC. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 memory. GPU boost clock up to 2310 MHz, game clock 2065 MHz. Hardware raytracing, PCIe 4.0, 3x 8-pin connectors. 3x DisplayPort 1.4 with DSC, 1x HDMI 2.1. Phantom Gaming 3X cooling system with 0dB silent operation and metal backplate.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6800 XT Taichi X 16G OC",
+    "description": "Radeon RX 6800 XT Taichi X 16G OC. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 memory. GPU boost clock up to 2360 MHz, game clock 2110 MHz, base clock 1925 MHz. Hardware raytracing, PCIe 4.0, 3x 8-pin connectors. 2x DisplayPort 1.4, 1x HDMI 2.1, 1x USB-C. Taichi 3X cooling with dual BIOS and ARGB metal backplate.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6900 XT 16G",
+    "description": "Radeon RX 6900 XT 16G. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 memory at 16 Gbps. GPU boost clock up to 2250 MHz, game clock 2015 MHz. Hardware raytracing, PCIe 4.0 support. 2x DisplayPort, 1x HDMI, 1x USB-C. AMD FreeSync, image sharpening, anti-lag, and radeon software included.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6900 XT OC Formula 16GB",
+    "description": "Radeon RX 6900 XT OC Formula 16GB. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 memory. P BIOS: boost up to 2475 MHz, game 2295 MHz. Q BIOS: boost 2365 MHz, game 2165 MHz. Base clock 2125 MHz. PCIe 4.0, 3x 8-pin connectors. 3x DisplayPort 1.4, 1x HDMI 2.1. 21-phase power design, OC Formula 3X cooling, dual BIOS.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6900 XT Phantom Gaming D 16G OC",
+    "description": "Radeon RX 6900 XT Phantom Gaming D 16G OC. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 memory. GPU boost clock up to 2340 MHz, game clock 2105 MHz, base clock 1925 MHz. Hardware raytracing, PCIe 4.0, 3x 8-pin connectors. 3x DisplayPort 1.4 with DSC, 1x HDMI 2.1. Phantom Gaming 3X cooling with 0dB silent operation.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6950 XT OC Formula 16GB",
+    "description": "Radeon RX 6950 XT OC Formula 16GB. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 at 18 Gbps. P BIOS: boost 2495 MHz, game 2279 MHz, base 2143 MHz. Q BIOS: boost 2310 MHz, game 2100 MHz, base 1890 MHz. PCIe 4.0, 3x 8-pin connectors. 3x DisplayPort 1.4, 1x HDMI 2.1. 21-phase power, dual BIOS.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 6950 XT Phantom Gaming 16GB OC",
+    "description": "Radeon RX 6950 XT Phantom Gaming 16GB OC. 7nm AMD RDNA 2 architecture with 16GB 256-bit GDDR6 at 18 Gbps. GPU boost clock up to 2324 MHz, game clock 2116 MHz, base clock 1958 MHz. Hardware raytracing, PCIe 4.0, 3x 8-pin connectors. 3x DisplayPort 1.4 with DSC, 1x HDMI 2.1. Phantom Gaming 3X cooling with 0dB silent operation.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7600 Challenger 8GB OC",
+    "description": "Radeon RX 7600 Challenger 8GB OC. AMD Radeon RX 7600 with 8GB GDDR6 memory. GPU boost clock up to 2695 MHz, game clock 2280 MHz, base clock 1770 MHz at 18 Gbps. PCIe 4.0 support, 1x 8-pin connector. 3x DisplayPort 1.4 with DSC, 1x HDMI 2.1. Dual fan design, metal backplate, 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7600 Challenger Pro 8GB OC",
+    "description": "Radeon RX 7600 Challenger Pro 8GB OC. AMD Radeon RX 7600 with 8GB GDDR6 on 128-bit memory bus. 32 RDNA 3 compute units with RT+AI accelerators, 32MB Infinity Cache. GPU boost up to 2695 MHz, game clock 2280 MHz at 18 Gbps. PCIe 4.0, 1x 8-pin connector. 3x DisplayPort 1.4a, 1x HDMI 2.1. Triple fan design, 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7600 Phantom Gaming 8GB OC",
+    "description": "Radeon RX 7600 Phantom Gaming 8GB OC. AMD Radeon RX 7600 with 8GB GDDR6 on 128-bit memory bus. 32 RDNA 3 compute units with RT+AI accelerators, 32MB Infinity Cache. GPU boost up to 2755 MHz, game clock 2355 MHz at 18 Gbps. PCIe 4.0, 1x 8-pin connector. 3x DisplayPort 2.1 with DSC, 1x HDMI 2.1. Phantom Gaming 3X cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7600 Steel Legend 8GB OC",
+    "description": "Radeon RX 7600 Steel Legend 8GB OC. AMD Radeon RX 7600 with 8GB GDDR6 on 128-bit memory bus. 32 RDNA 3 compute units with RT+AI accelerators, 32MB Infinity Cache. GPU boost up to 2725 MHz, game clock 2320 MHz at 18 Gbps. PCIe 4.0, 1x 8-pin connector. 3x DisplayPort 2.1, 1x HDMI 2.1. Triple fan design, Polychrome SYNC.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7600 XT Challenger 16GB OC",
+    "description": "Radeon RX 7600 XT Challenger 16GB OC. AMD Radeon RX 7600 XT with 16GB GDDR6 on 128-bit memory bus. 32 RDNA 3 compute units with RT+AI accelerators. GPU boost up to 2799 MHz, game clock 2516 MHz at 18 Gbps. PCIe 4.0, 2x 8-pin connectors. 3x DisplayPort 2.1, 1x HDMI 2.1. Dual fan design, LED indicator, 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7600 XT Steel Legend 16GB OC",
+    "description": "Radeon RX 7600 XT Steel Legend 16GB OC. AMD Radeon RX 7600 XT with 16GB GDDR6 on 128-bit memory bus. 32 RDNA 3 compute units with RT+AI accelerators, 32MB Infinity Cache. GPU boost up to 2810 MHz, game clock 2539 MHz at 18 Gbps. PCIe 4.0, 2x 8-pin connectors. 3x DisplayPort 2.1, 1x HDMI 2.1. Triple fan, Polychrome SYNC.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7650 GRE Challenger 8GB OC",
+    "description": "Radeon RX 7650 GRE Challenger 8GB OC. AMD Radeon RX 7600 GRE with 8GB GDDR6. GPU boost clock up to 2725 MHz, game clock 2400 MHz at 18 Gbps. PCIe 4.0 support, 1x 8-pin connector. 3x DisplayPort 2.1, 1x HDMI 2.1. Dual fan design, LED indicator, metal backplate, 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7650 GRE Challenger 8GB OC+",
+    "description": "Radeon RX 7650 GRE Challenger 8GB OC+. AMD Radeon RX 7600 GRE with 8GB GDDR6. GPU boost clock up to 2810 MHz, game clock 2539 MHz at 18 Gbps. PCIe 4.0 support, 1x 8-pin connector. 3x DisplayPort 2.1, 1x HDMI 2.1. Dual fan design, LED indicator, metal backplate, 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7650 GRE Challenger SE 8GB OC",
+    "description": "Radeon RX 7650 GRE Challenger SE 8GB OC. AMD Radeon RX 7650 GRE with 8GB GDDR6. GPU boost clock up to 2725 MHz, game clock 2400 MHz, base clock 1845 MHz at 18 Gbps. PCIe 4.0 support, 1x 8-pin connector. 3x DisplayPort 2.1, 1x HDMI 2.1. Dual fan design, metal backplate, 0dB silent cooling.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7700 Challenger 16GB",
+    "description": "Radeon RX 7700 Challenger 16GB. AMD Radeon RX 7700 with 16GB GDDR6 on 256-bit memory bus. 40 RDNA 3 compute units with RT+AI accelerators, 40MB Infinity Cache. GPU boost up to 2459 MHz, game clock 2041 MHz at 19.5 Gbps. PCIe 4.0, 2x 8-pin connectors. 3x DisplayPort 2.1, 1x HDMI 2.1. Dual fan, LED indicator.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7700 XT Challenger 12GB OC",
+    "description": "Radeon RX 7700 XT Challenger 12GB OC. AMD Radeon RX 7700 XT with 12GB GDDR6 on 192-bit memory bus. 54 RDNA 3 compute units with RT+AI accelerators, 48MB Infinity Cache. GPU boost up to 2584 MHz, game clock 2226 MHz at 18 Gbps. PCIe 4.0, 2x 8-pin connectors. 3x DisplayPort 2.1, 1x HDMI 2.1. Dual fan design.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7700 XT Phantom Gaming 12GB OC",
+    "description": "Radeon RX 7700 XT Phantom Gaming 12GB OC. AMD Radeon RX 7700 XT with 12GB GDDR6 on 192-bit memory bus. 54 RDNA 3 compute units with RT+AI accelerators, 60MB Infinity Cache. GPU boost up to 2599 MHz, game clock 2276 MHz at 18 Gbps. PCIe 4.0, 2x 8-pin connectors. 3x DisplayPort 2.1, 1x HDMI 2.1. Phantom Gaming 3X cooling, Polychrome SYNC.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7700 XT Steel Legend 12GB OC",
+    "description": "Radeon RX 7700 XT Steel Legend 12GB OC. AMD RDNA 3 GPU with 12GB GDDR6 memory, 2599 MHz boost clock, 54 compute units, 48MB Infinity Cache, PCIe 4.0, DirectX 12 Ultimate. Triple fan design with metal backplate, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7800 XT Challenger 16GB OC",
+    "description": "Radeon RX 7800 XT Challenger 16GB OC. AMD RDNA 3 GPU with 16GB GDDR6 memory, 2475 MHz boost clock, 60 compute units, 64MB Infinity Cache, PCIe 4.0, DirectX 12 Ultimate. Dual fan design with 0dB silent cooling, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7800 XT Phantom Gaming 16GB OC",
+    "description": "Radeon RX 7800 XT Phantom Gaming 16GB OC. AMD RDNA 3 GPU with 16GB GDDR6 memory, 2565 MHz boost clock, 60 compute units, 64MB Infinity Cache, PCIe 4.0, DirectX 12 Ultimate. Phantom Gaming 3X cooling system with 0dB silent mode, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7800 XT Steel Legend 16GB OC",
+    "description": "Radeon RX 7800 XT Steel Legend 16GB OC. AMD RDNA 3 GPU with 16GB GDDR6 memory, 2520 MHz boost clock, 60 compute units, 64MB Infinity Cache, PCIe 4.0, DirectX 12 Ultimate. Triple fan design with reinforced metal frame, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 GRE Challenger 16GB OC",
+    "description": "Radeon RX 7900 GRE Challenger 16GB OC. AMD RDNA 3 GPU with 16GB GDDR6 memory, 2293 MHz boost clock, 80 compute units, 64MB Infinity Cache, PCIe 4.0, DirectX 12 Ultimate. Dual fan design with 0dB silent cooling, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 GRE Steel Legend 16GB OC",
+    "description": "Radeon RX 7900 GRE Steel Legend 16GB OC. AMD RDNA 3 GPU with 16GB GDDR6 memory, 2333 MHz boost clock, 80 compute units, 64MB Infinity Cache, PCIe 4.0, DirectX 12 Ultimate. Triple fan design with reinforced metal frame, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XT 20GB",
+    "description": "Radeon RX 7900 XT 20GB. AMD RDNA 3 architecture 5nm GPU with 20GB GDDR6 memory, 2400 MHz boost clock. Features FidelityFX Super Resolution, FreeSync technology, DirectX 12 Ultimate support. 2x DisplayPort, 1x HDMI, 1x USB-C, 276mm length, 2.5 slot design.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XT Creator 20GB",
+    "description": "Radeon RX 7900 XT Creator 20GB. AMD RDNA 3 GPU with 20GB GDDR6 memory, 2395 MHz boost clock, 84 compute units, 80MB Infinity Cache, PCIe 4.0. 12V-2x6 power connector, blower fan, vapor-chamber heatsink for efficient multicard accelerate computing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XT Passive 20GB",
+    "description": "Radeon RX 7900 XT Passive 20GB. AMD RDNA 3 GPU with 20GB GDDR6 memory, 2395 MHz boost clock, 84 compute units, 80MB Infinity Cache, PCIe 4.0. 12V-2x6 power connector with passive vapor-chamber heatsink and cooling fins for silent operation.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XT Phantom Gaming 20GB OC",
+    "description": "Radeon RX 7900 XT Phantom Gaming 20GB OC. AMD RDNA 3 GPU with 20GB GDDR6 memory, 2450 MHz boost clock, 84 compute units, 80MB Infinity Cache, PCIe 4.0. Phantom Gaming 3X cooling system with 0dB silent mode, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XT Phantom Gaming White 20GB OC",
+    "description": "Radeon RX 7900 XT Phantom Gaming White 20GB OC. AMD RDNA 3 GPU with 20GB GDDR6 memory, 2450 MHz boost clock, 84 compute units, 80MB Infinity Cache, PCIe 4.0. Phantom Gaming 3X cooling system with 0dB silent mode, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XT Taichi 20GB OC",
+    "description": "Radeon RX 7900 XT Taichi 20GB OC. AMD RDNA 3 GPU with 20GB GDDR6 memory, 2560 MHz boost clock, 84 compute units, 80MB Infinity Cache, PCIe 4.0. Taichi 3X cooling system, dual BIOS, 20 power phase design, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XTX 24GB",
+    "description": "Radeon RX 7900 XTX 24GB. AMD RDNA 3 architecture 5nm GPU with 24GB GDDR6 memory, 2500 MHz boost clock. Features FidelityFX Super Resolution, FreeSync technology, DirectX 12 Ultimate support. 2x DisplayPort, 1x HDMI, 1x USB-C, 287mm length, 2.5 slot design.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XTX AQUA 24GB OC",
+    "description": "Radeon RX 7900 XTX AQUA 24GB OC. AMD RDNA 3 GPU with 24GB GDDR6 memory, 2680 MHz boost clock, 96 compute units, 96MB Infinity Cache, PCIe 4.0. AQUA liquid cooling system with high purity copper plate and jet microchannel engine, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XTX Creator 24GB",
+    "description": "Radeon RX 7900 XTX Creator 24GB. AMD RDNA 3 GPU with 24GB GDDR6 memory, 2500 MHz boost clock, 96 compute units, 96MB Infinity Cache, PCIe 4.0. 12V-2x6 power connector, blower fan, vapor-chamber heatsink for efficient multicard accelerate computing.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XTX Passive 24GB",
+    "description": "Radeon RX 7900 XTX Passive 24GB. AMD RDNA 3 GPU with 24GB GDDR6 memory, 2500 MHz boost clock, 96 compute units, 96MB Infinity Cache, PCIe 4.0. 12V-2x6 power connector with passive vapor-chamber heatsink and cooling fins for silent operation.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XTX Phantom Gaming 24GB OC",
+    "description": "Radeon RX 7900 XTX Phantom Gaming 24GB OC. AMD RDNA 3 GPU with 24GB GDDR6 memory, 2615 MHz boost clock, 96 compute units, 96MB Infinity Cache, PCIe 4.0. Phantom Gaming 3X cooling system with 0dB silent mode, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XTX Taichi 24GB OC",
+    "description": "Radeon RX 7900 XTX Taichi 24GB OC. AMD RDNA 3 GPU with 24GB GDDR6 memory, 2680 MHz boost clock, 96 compute units, 96MB Infinity Cache, PCIe 4.0. Taichi 3X cooling system, dual BIOS, 22 power phase design, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 7900 XTX Taichi White 24GB OC",
+    "description": "Radeon RX 7900 XTX Taichi White 24GB OC. AMD RDNA 3 GPU with 24GB GDDR6 memory, 2680 MHz boost clock, 96 compute units, 96MB Infinity Cache, PCIe 4.0. Taichi 3X cooling system, dual BIOS, 22 power phase design, 3x DisplayPort 2.1, 1x HDMI 2.1.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9060 Challenger 8GB",
+    "description": "Radeon RX 9060 Challenger 8GB. AMD RDNA 4 GPU with 8GB GDDR6 memory, 2990 MHz boost clock, 28 compute units, PCIe 5.0, DirectX 12 Ultimate. Dual fan design with 0dB silent cooling, 2x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9060 XT Challenger 16GB",
+    "description": "Radeon RX 9060 XT Challenger 16GB. AMD RDNA 4 architecture with 32 compute units, 3rd gen RT and 2nd gen AI accelerators. 16GB GDDR6 memory on 128-bit bus with 20Gbps speed. Boost clock up to 3230 MHz, game clock 2620 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Dual fan design with 0dB silent cooling. 2x DisplayPort 2.1a, 1x HDMI 2.1b outputs.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9060 XT Challenger 16GB OC",
+    "description": "Radeon RX 9060 XT Challenger 16GB OC. AMD RDNA 4 architecture with 32 compute units, 3rd gen RT and 2nd gen AI accelerators. 16GB GDDR6 memory on 128-bit bus with 20Gbps speed. Boost clock up to 3290 MHz, game clock 2700 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Dual fan design with 0dB silent cooling. 2x DisplayPort 2.1a, 1x HDMI 2.1b outputs.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9060 XT Challenger 8GB OC",
+    "description": "Radeon RX 9060 XT Challenger 8GB OC. AMD RDNA 4 architecture with 32 compute units, 3rd gen RT and 2nd gen AI accelerators. 8GB GDDR6 memory on 128-bit bus with 20Gbps speed. Boost clock up to 3290 MHz, game clock 2700 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Dual fan design with 0dB silent cooling. 2x DisplayPort 2.1a, 1x HDMI 2.1b outputs.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9060 XT Steel Legend 16GB OC",
+    "description": "Radeon RX 9060 XT Steel Legend 16GB OC. AMD RDNA 4 architecture with 32 compute units, 3rd gen RT and 2nd gen AI accelerators. 16GB GDDR6 memory on 128-bit bus with 20Gbps speed. Boost clock up to 3320 MHz, game clock 2780 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Triple fan design with ultra-fit heatpipe and 0dB silent cooling. 2x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9060 XT Steel Legend 8GB OC",
+    "description": "Radeon RX 9060 XT Steel Legend 8GB OC. AMD RDNA 4 architecture with 32 compute units, 3rd gen RT and 2nd gen AI accelerators. 8GB GDDR6 memory on 128-bit bus with 20Gbps speed. Boost clock up to 3320 MHz, game clock 2780 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Triple fan design with ultra-fit heatpipe and 0dB silent cooling. 2x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9070 Challenger 16GB",
+    "description": "Radeon RX 9070 Challenger 16GB. AMD RDNA 4 architecture with 56 compute units and RT+AI accelerators. 16GB GDDR6 memory on 256-bit bus with 20Gbps speed. Boost clock up to 2520 MHz, game clock 2070 MHz. PCIe 5.0 support. Triple fan design with ultra-fit heatpipe and 0dB silent cooling. 3x DisplayPort 2.1a, 1x HDMI 2.1b outputs.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9070 GRE Steel Legend Dark 12GB OC",
+    "description": "Radeon RX 9070 GRE Steel Legend Dark 12GB OC. AMD RDNA 4 architecture with 48 compute units, 3rd gen RT and 2nd gen AI accelerators. 12GB GDDR6 memory on 192-bit bus with 18Gbps speed. Boost clock up to 2920 MHz, game clock 2340 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Triple fan design with ultra-fit heatpipe. 3x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9070 Steel Legend 16GB OC",
+    "description": "Radeon RX 9070 Steel Legend 16GB OC. AMD RDNA 4 architecture with 56 compute units, 3rd gen RT and 2nd gen AI accelerators. 16GB GDDR6 memory on 256-bit bus with 20Gbps speed. Boost clock up to 2700 MHz, game clock 2210 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Triple fan design with ultra-fit heatpipe. 3x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9070 XT Challenger 16GB",
+    "description": "Radeon RX 9070 XT Challenger 16GB. AMD RDNA 4 architecture with 64 compute units, 3rd gen RT and 2nd gen AI accelerators. 16GB GDDR6 memory on 256-bit bus with 20Gbps speed. Boost clock up to 2970 MHz, game clock 2400 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Triple fan design with 0dB silent cooling. 3x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9070 XT Steel Legend 16GB",
+    "description": "Radeon RX 9070 XT Steel Legend 16GB. AMD RDNA 4 architecture with 64 compute units, 3rd gen RT and 2nd gen AI accelerators. 16GB GDDR6 memory on 256-bit bus with 20Gbps speed. Boost clock up to 2970 MHz, game clock 2400 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Triple fan design with ultra-fit heatpipe. 3x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9070 XT Steel Legend Dark 16GB",
+    "description": "Radeon RX 9070 XT Steel Legend Dark 16GB. AMD RDNA 4 architecture with 64 compute units, 3rd gen RT and 2nd gen AI accelerators. 16GB GDDR6 memory on 256-bit bus with 20Gbps speed. Boost clock up to 2970 MHz, game clock 2400 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Triple fan design with ultra-fit heatpipe. 3x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9070 XT Taichi 16GB OC",
+    "description": "Radeon RX 9070 XT Taichi 16GB OC. AMD RDNA 4 architecture with 64 compute units and RT+AI accelerators. 16GB GDDR6 memory on 256-bit bus with 20Gbps speed. Boost clock up to 3100 MHz, game clock 2570 MHz. PCIe 5.0 support. Reverse spin Taichi 3X cooling system with dual BIOS and 16 power phases. 3x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX 9070 XT Taichi White 16GB OC",
+    "description": "Radeon RX 9070 XT Taichi White 16GB OC. AMD RDNA 4 architecture with 64 compute units and RT+AI accelerators. 16GB GDDR6 memory on 256-bit bus with 20Gbps speed. Boost clock up to 3100 MHz, game clock 2570 MHz. PCIe 5.0 support. Reverse spin Taichi 3X cooling with LCD information center, dual BIOS and phase-change thermal pad. 3x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX550 Low Profile 4GB",
+    "description": "Radeon RX550 Low Profile 4GB. AMD Radeon RX 550 GPU with 4GB GDDR5 memory on 128-bit bus. GPU clock up to 1100 MHz, memory clock 6Gbps. DirectX 12 support, PCIe 3.0. Low profile design with dual fan and 0dB silent cooling. 1x DisplayPort 1.4, 1x HDMI 2.0.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "Radeon RX9070XT MH 16G",
+    "description": "Radeon RX9070XT MH 16G. AMD RDNA 4 architecture with 64 compute units, 3rd gen RT and 2nd gen AI accelerators. 16GB GDDR6 memory on 256-bit bus with 20Gbps speed. Boost clock up to 2970 MHz, game clock 2400 MHz. PCIe 5.0 support, DirectX 12 Ultimate. Triple fan design with ultra-fit heatpipe. 3x DisplayPort 2.1a, 1x HDMI 2.1b.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  }
+]

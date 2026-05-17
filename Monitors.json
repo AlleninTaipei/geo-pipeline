@@ -1,0 +1,342 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL25FF",
+    "description": "CL25FF. 24.5-inch Full HD (1920x1080) flat IPS display with 100Hz high refresh rate, 1ms MPRT response time, 99% sRGB color space, 178-degree viewing angles, AMD FreeSync technology, flicker-free and low blue light technology. Connections: HDMI 1.4, VGA. Tilt adjustment. Energy Star 8.0 certified.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL25FFA",
+    "description": "CL25FFA. 24.5-inch FHD (1920x1080) flat IPS display with 120Hz high refresh rate, 1ms MPRT response time, 103% sRGB color space, 178-degree viewing angles, flicker-free and low blue light technology. Connections: HDMI 1.4, VGA. Tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL25FFB",
+    "description": "CL25FFB. 24.5-inch FHD (1920x1080) flat IPS display with 144Hz high refresh rate, 1ms MPRT response time, 99% sRGB color space, 178-degree viewing angles, AMD FreeSync, flicker-free and low blue light technology. Connections: HDMI 1.4, VGA. Tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL27FF",
+    "description": "CL27FF. 27-inch Full HD (1920x1080) flat IPS display with 100Hz high refresh rate, 1ms MPRT response time, 99% sRGB color space, 178-degree viewing angles, AMD FreeSync technology, flicker-free and low blue light technology. Connections: HDMI 1.4, VGA. Tilt adjustment. Energy Star 8.0 certified.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL27FFA",
+    "description": "CL27FFA. 27-inch FHD (1920x1080) flat IPS display with 120Hz high refresh rate, 1ms MPRT response time, 123% sRGB color space, 178-degree viewing angles, flicker-free and low blue light technology. Connections: HDMI 1.4, VGA. Tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "CL27FFB",
+    "description": "CL27FFB. 27-inch FHD (1920x1080) flat IPS display with 144Hz high refresh rate, 1ms MPRT response time, 99% sRGB color space, 178-degree viewing angles, AMD FreeSync, flicker-free and low blue light technology. Connections: HDMI 1.4, VGA. Tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG25FFT",
+    "description": "PG25FFT. 24.5-inch FHD (1920x1080) IPS display with 180Hz high refresh rate, 1ms MPRT response time, 94% DCI-P3 / 126% sRGB color space, 178-degree viewing angles, AMD FreeSync, flicker-free and low blue light technology. Tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27F15RS1A",
+    "description": "PG27F15RS1A. 27-inch FHD (1920x1080) 1500R VA display with 240Hz fast refresh rate, 1ms MPRT response time, 90% DCI-P3 / 113% sRGB color space, 178-degree viewing angles, adaptive sync, flicker-free and low blue light technology. Connections: 2x HDMI 2.0, DisplayPort 1.2. Swivel and tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FF1A",
+    "description": "PG27FF1A. 27-inch FHD (1920x1080) flat IPS display with 165Hz high refresh rate, 1ms MPRT response time, 94% DCI-P3 / 123% sRGB color space, 178-degree viewing angles, AMD FreeSync Premium, flicker-free technology. Connections: 2x HDMI 2.0, DisplayPort 1.2. Swivel and tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FFS1A",
+    "description": "PG27FFS1A. 27-inch FHD (1920x1080) flat IPS display with 240Hz high refresh rate, 1ms MPRT response time, 99% sRGB color space, 178-degree viewing angles, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.1, DisplayPort 1.2, headphone out. 2W x2 speakers. Tilt and swivel adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FFS2E",
+    "description": "PG27FFS2E. 27-inch FHD (1920x1080) flat IPS display with 240Hz high refresh rate, 1ms MPRT response time, 99% sRGB color space, 178-degree viewing angles, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.1, DisplayPort 1.2, headphone out. 2W x2 speakers. Height, tilt, swivel, and pivot adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FFS2E-W",
+    "description": "PG27FFS2E-W. 27-inch FHD (1920x1080) flat IPS display with 240Hz high refresh rate, 1ms MPRT response time, 99% sRGB color space, 178-degree viewing angles, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.1, DisplayPort 1.2, headphone out. 2W x2 speakers. Height, tilt, swivel, and pivot adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FFT1A",
+    "description": "PG27FFT1A. 27-inch FHD (1920x1080) IPS display with 180Hz high refresh rate, 1ms MPRT response time, 94% DCI-P3 / 123% sRGB color space, 178-degree viewing angles, flicker-free and low blue light technology. Swivel and tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FFT1B",
+    "description": "PG27FFT1B. 27-inch FHD (1920x1080) IPS display with 180Hz high refresh rate, 1ms MPRT response time, 94% DCI-P3 / 123% sRGB color space, 178-degree viewing angles, flicker-free and low blue light technology.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FFX1B",
+    "description": "PG27FFX1B. 27-inch FHD (1920x1080) flat IPS display with 520Hz high refresh rate, 1ms GTG response time, 94% DCI-P3 / 123% sRGB color space, 178-degree viewing angles, VESA DisplayHDR 400, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.1, DisplayPort 1.4, USB 3.2, headphone out. Tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FFX2A",
+    "description": "PG27FFX2A. 27-inch FHD (1920x1080) flat IPS display with 520Hz high refresh rate, 1ms GTG response time, 94% DCI-P3 / 123% sRGB color space, 178-degree viewing angles, VESA DisplayHDR 400, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.1, DisplayPort 1.4, USB 3.2, headphone out. Integrated Wi-Fi antenna. Height, swivel, tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27FRS1A",
+    "description": "PG27FRS1A. 27-inch FHD (1920x1080) 1500R VA display with 280Hz high refresh rate, 1ms MPRT response time, 93% DCI-P3 / 127% sRGB color space, 178-degree viewing angles, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.0, DisplayPort 1.4, headphone out. Tilt and swivel adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27Q15R2A",
+    "description": "PG27Q15R2A. 27-inch QHD (2560x1440) 1500R VA display with 165Hz high refresh rate, 1ms MPRT response time, 87% DCI-P3 / 110% sRGB color space, 178-degree viewing angles, VESA DisplayHDR 400, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.0, DisplayPort 1.4. Integrated Wi-Fi antenna. Height, swivel, tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27QFT1B",
+    "description": "PG27QFT1B. 27-inch QHD (2560x1440) IPS display with 180Hz high refresh rate, 1ms MPRT response time, 96% DCI-P3 / 133% sRGB color space, 178-degree viewing angles, VESA DisplayHDR 400, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.0, DisplayPort 1.4. Tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27QFT2A",
+    "description": "PG27QFT2A. 27-inch QHD (2560x1440) IPS display with 180Hz high refresh rate, 1ms MPRT response time, 90% DCI-P3 / 99% sRGB color space, 178-degree viewing angles, VESA DisplayHDR 400, AMD FreeSync Premium, flicker-free and low blue light technology. Connections: 2x HDMI 2.0, DisplayPort 1.4. Integrated Wi-Fi antenna. Height, swivel, tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27QFT2C",
+    "description": "PG27QFT2C. 27-inch QHD IPS display with 2560x1440 resolution, 180Hz refresh rate, and 1ms MPRT response time. Features 96% DCI-P3 and 133% sRGB color coverage with VESA DisplayHDR 400. AMD FreeSync Premium, flicker-free, low blue light technology. Includes 2x HDMI 2.0 and 1x DisplayPort 1.4. Height, swivel, and tilt adjustable.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27QFW2A",
+    "description": "PG27QFW2A. 27-inch QHD flat IPS display with 2560x1440 resolution, 400Hz refresh rate, and 1ms GTG response time. Covers 99% DCI-P3 and 132% sRGB with VESA DisplayHDR 400 and 178-degree viewing angles. AMD FreeSync Premium, flicker-free, low blue light. Ports include 2x HDMI 2.1, 1x DisplayPort 1.4, USB connectivity, and integrated Wi-Fi antenna.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27QRT1B",
+    "description": "PG27QRT1B. 27-inch QHD curved VA display with 2560x1440 resolution and 1500R curvature, 180Hz refresh rate, 1ms MPRT response time. 95% DCI-P3 and 132% sRGB color space. AMD FreeSync, flicker-free, low blue light. 2x HDMI 2.0 and 1x DisplayPort 1.4. Tilt adjustable.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG27QRT2A",
+    "description": "PG27QRT2A. 27-inch QHD curved VA display with 2560x1440 resolution and 1500R curvature, 180Hz refresh rate, 1ms MPRT response time. 95% DCI-P3 and 132% sRGB color coverage. AMD FreeSync, flicker-free, low blue light. 2x HDMI 2.0 and 1x DisplayPort 1.4. Height, swivel, tilt adjustable with integrated Wi-Fi antenna.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG32QF2B",
+    "description": "PG32QF2B. 31.5-inch QHD flat VA display with 2560x1440 resolution, 165Hz refresh rate, and 1ms MPRT response time. 92% DCI-P3 and 116% sRGB color space with VESA DisplayHDR 400. AMD FreeSync Premium, flicker-free, low blue light. Height, swivel, tilt adjustable with integrated Wi-Fi antenna.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG32QFT",
+    "description": "PG32QFT. 32-inch QHD flat IPS display with 2560x1440 resolution, 180Hz refresh rate, and 1ms GTG response time. 97% DCI-P3 and 151% sRGB color coverage with VESA DisplayHDR 400. AMD FreeSync, flicker-free, low blue light. 2x HDMI 2.0 and 1x DisplayPort 1.4. Height, swivel, tilt adjustable with integrated Wi-Fi antenna.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG34QRT2B",
+    "description": "PG34QRT2B. 34-inch WQHD curved VA display with 3440x1440 resolution and 1500R curvature, 180Hz refresh rate, 1ms MPRT response time. 94% DCI-P3 and 123% sRGB with VESA DisplayHDR 400. AMD FreeSync Premium, flicker-free, low blue light. 2x HDMI 2.0 and 2x DisplayPort 1.4. USB connectivity and integrated Wi-Fi antenna.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG34QRT3A",
+    "description": "PG34QRT3A. 34-inch WQHD curved VA display with 3440x1440 resolution and 1500R curvature, 180Hz refresh rate, 1ms MPRT response time. 94% DCI-P3 and 123% sRGB with VESA DisplayHDR 400. AMD FreeSync Premium, flicker-free, low blue light, RGB lighting. 2x HDMI 2.0 and 2x DisplayPort 1.4 with USB connectivity and integrated Wi-Fi antenna.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG34WQ15R2B",
+    "description": "PG34WQ15R2B. 34-inch WQHD curved VA display with 3440x1440 resolution and 1500R curvature, 165Hz refresh rate, 1ms MPRT response time. 91% DCI-P3 and 115% sRGB with VESA DisplayHDR 400. AMD FreeSync Premium, flicker-free. 2x HDMI 2.0 and 1x DisplayPort 1.4. Height, swivel, tilt adjustable with integrated Wi-Fi antenna.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PG34WQ15R3A",
+    "description": "PG34WQ15R3A. 34-inch WQHD curved VA display with 3440x1440 resolution and 1500R curvature, 165Hz refresh rate, 1ms MPRT response time. 91% DCI-P3 and 115% sRGB with VESA DisplayHDR 400. AMD FreeSync Premium, flicker-free, low blue light, RGB lighting. 2x HDMI 2.0 and 1x DisplayPort 1.4 with integrated Wi-Fi antenna.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PGO27QFS",
+    "description": "PGO27QFS. 27-inch QHD flat WOLED display with 2560x1440 resolution, 240Hz refresh rate, and 0.03ms GTG response time. 99% DCI-P3 and 129% sRGB with Delta E < 2 accuracy and VESA DisplayHDR True Black 400. AMD FreeSync Premium Pro, low blue light. 2x HDMI 2.1 and 2x DisplayPort 1.4. KVM switch and height, swivel, tilt, pivot adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PGO27QFV",
+    "description": "PGO27QFV. 27-inch QHD flat QD-OLED display with 2560x1440 resolution, 360Hz refresh rate, and 0.03ms GTG response time. 99% DCI-P3 and 138% sRGB with Delta E < 2 accuracy and VESA DisplayHDR True Black 400. AMD FreeSync Premium Pro, low blue light. 2x HDMI 2.1 and 1x DisplayPort 1.4. Integrated Wi-Fi antenna with height, swivel, tilt adjustment.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PGO32UFS",
+    "description": "PGO32UFS. 31.5-inch 4K UHD flat WOLED display with 3840x2160 resolution, 240Hz refresh rate, and 0.03ms GTG response time. 99% DCI-P3 and 132% sRGB with Delta E < 2 accuracy and VESA DisplayHDR True Black 400. AMD FreeSync Premium Pro, low blue light. 2x HDMI 2.1 and 2x DisplayPort 1.4. Dual display mode supports 4K 240Hz and FHD 480Hz with KVM switch.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "PGO32UFS2C",
+    "description": "PGO32UFS2C. 31.5-inch 4K UHD flat WOLED display with 3840x2160 resolution, 240Hz refresh rate, and 0.03ms GTG response time. 99% DCI-P3 and 132% sRGB with Delta E < 2 accuracy and VESA DisplayHDR True Black 400. AMD FreeSync Premium Pro, low blue light. 2x HDMI 2.1 and 2x DisplayPort 1.4. Dual display mode, KVM switch, height, swivel, tilt adjustable.",
+    "brand": {
+      "@type": "Brand",
+      "name": "ASRock"
+    }
+  }
+]
